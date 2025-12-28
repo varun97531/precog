@@ -1,0 +1,5002 @@
+{
+  "rest_v0.png": {
+    "captcha": "RESt",
+    "word": "rest",
+    "font": "Times New Roman.ttf"
+  },
+  "rest_v1.png": {
+    "captcha": "reSt",
+    "word": "rest",
+    "font": "Arial.ttf"
+  },
+  "rest_v2.png": {
+    "captcha": "ReSt",
+    "word": "rest",
+    "font": "Courier New.ttf"
+  },
+  "rest_v3.png": {
+    "captcha": "REsT",
+    "word": "rest",
+    "font": "Times New Roman.ttf"
+  },
+  "rest_v4.png": {
+    "captcha": "tSEr",
+    "word": "rest",
+    "font": "Times New Roman.ttf"
+  },
+  "rest_v5.png": {
+    "captcha": "ReST",
+    "word": "rest",
+    "font": "Arial.ttf"
+  },
+  "rest_v6.png": {
+    "captcha": "ResT",
+    "word": "rest",
+    "font": "Courier New.ttf"
+  },
+  "rest_v7.png": {
+    "captcha": "rEst",
+    "word": "rest",
+    "font": "Courier New.ttf"
+  },
+  "rest_v8.png": {
+    "captcha": "tsER",
+    "word": "rest",
+    "font": "Courier New.ttf"
+  },
+  "rest_v9.png": {
+    "captcha": "rEsT",
+    "word": "rest",
+    "font": "Times New Roman.ttf"
+  },
+  "charge_v0.png": {
+    "captcha": "chARGE",
+    "word": "charge",
+    "font": "Courier New.ttf"
+  },
+  "charge_v1.png": {
+    "captcha": "charge",
+    "word": "charge",
+    "font": "Times New Roman.ttf"
+  },
+  "charge_v2.png": {
+    "captcha": "CHArGE",
+    "word": "charge",
+    "font": "Arial.ttf"
+  },
+  "charge_v3.png": {
+    "captcha": "egRahC",
+    "word": "charge",
+    "font": "Arial.ttf"
+  },
+  "charge_v4.png": {
+    "captcha": "EgRAhC",
+    "word": "charge",
+    "font": "Arial.ttf"
+  },
+  "charge_v5.png": {
+    "captcha": "eGRAhc",
+    "word": "charge",
+    "font": "Arial.ttf"
+  },
+  "charge_v6.png": {
+    "captcha": "egrahC",
+    "word": "charge",
+    "font": "Arial.ttf"
+  },
+  "charge_v7.png": {
+    "captcha": "chArGe",
+    "word": "charge",
+    "font": "Courier New.ttf"
+  },
+  "charge_v8.png": {
+    "captcha": "eGrahC",
+    "word": "charge",
+    "font": "Times New Roman.ttf"
+  },
+  "charge_v9.png": {
+    "captcha": "chArgE",
+    "word": "charge",
+    "font": "Arial.ttf"
+  },
+  "finally_v0.png": {
+    "captcha": "fInAlLy",
+    "word": "finally",
+    "font": "Arial.ttf"
+  },
+  "finally_v1.png": {
+    "captcha": "fiNAlLy",
+    "word": "finally",
+    "font": "Courier New.ttf"
+  },
+  "finally_v2.png": {
+    "captcha": "YLLAniF",
+    "word": "finally",
+    "font": "Times New Roman.ttf"
+  },
+  "finally_v3.png": {
+    "captcha": "yLLanIf",
+    "word": "finally",
+    "font": "Courier New.ttf"
+  },
+  "finally_v4.png": {
+    "captcha": "YlLaNiF",
+    "word": "finally",
+    "font": "Courier New.ttf"
+  },
+  "finally_v5.png": {
+    "captcha": "finaLLY",
+    "word": "finally",
+    "font": "Courier New.ttf"
+  },
+  "finally_v6.png": {
+    "captcha": "yLlaNiF",
+    "word": "finally",
+    "font": "Arial.ttf"
+  },
+  "finally_v7.png": {
+    "captcha": "FiNalLy",
+    "word": "finally",
+    "font": "Courier New.ttf"
+  },
+  "finally_v8.png": {
+    "captcha": "FINaLLY",
+    "word": "finally",
+    "font": "Courier New.ttf"
+  },
+  "finally_v9.png": {
+    "captcha": "finALLy",
+    "word": "finally",
+    "font": "Courier New.ttf"
+  },
+  "later_v0.png": {
+    "captcha": "rEtAL",
+    "word": "later",
+    "font": "Times New Roman.ttf"
+  },
+  "later_v1.png": {
+    "captcha": "REtAL",
+    "word": "later",
+    "font": "Arial.ttf"
+  },
+  "later_v2.png": {
+    "captcha": "Later",
+    "word": "later",
+    "font": "Times New Roman.ttf"
+  },
+  "later_v3.png": {
+    "captcha": "reTAl",
+    "word": "later",
+    "font": "Courier New.ttf"
+  },
+  "later_v4.png": {
+    "captcha": "retaL",
+    "word": "later",
+    "font": "Times New Roman.ttf"
+  },
+  "later_v5.png": {
+    "captcha": "retal",
+    "word": "later",
+    "font": "Courier New.ttf"
+  },
+  "later_v6.png": {
+    "captcha": "LatER",
+    "word": "later",
+    "font": "Arial.ttf"
+  },
+  "later_v7.png": {
+    "captcha": "LaTEr",
+    "word": "later",
+    "font": "Courier New.ttf"
+  },
+  "later_v8.png": {
+    "captcha": "reTaL",
+    "word": "later",
+    "font": "Courier New.ttf"
+  },
+  "later_v9.png": {
+    "captcha": "lateR",
+    "word": "later",
+    "font": "Courier New.ttf"
+  },
+  "find_v0.png": {
+    "captcha": "fiND",
+    "word": "find",
+    "font": "Arial.ttf"
+  },
+  "find_v1.png": {
+    "captcha": "fiND",
+    "word": "find",
+    "font": "Times New Roman.ttf"
+  },
+  "find_v2.png": {
+    "captcha": "dNIf",
+    "word": "find",
+    "font": "Courier New.ttf"
+  },
+  "find_v3.png": {
+    "captcha": "dNiF",
+    "word": "find",
+    "font": "Times New Roman.ttf"
+  },
+  "find_v4.png": {
+    "captcha": "fInD",
+    "word": "find",
+    "font": "Arial.ttf"
+  },
+  "find_v5.png": {
+    "captcha": "fINd",
+    "word": "find",
+    "font": "Arial.ttf"
+  },
+  "find_v6.png": {
+    "captcha": "find",
+    "word": "find",
+    "font": "Arial.ttf"
+  },
+  "find_v7.png": {
+    "captcha": "dnIF",
+    "word": "find",
+    "font": "Courier New.ttf"
+  },
+  "find_v8.png": {
+    "captcha": "DNif",
+    "word": "find",
+    "font": "Times New Roman.ttf"
+  },
+  "find_v9.png": {
+    "captcha": "dniF",
+    "word": "find",
+    "font": "Arial.ttf"
+  },
+  "speak_v0.png": {
+    "captcha": "kaepS",
+    "word": "speak",
+    "font": "Times New Roman.ttf"
+  },
+  "speak_v1.png": {
+    "captcha": "SPeAK",
+    "word": "speak",
+    "font": "Arial.ttf"
+  },
+  "speak_v2.png": {
+    "captcha": "kAeps",
+    "word": "speak",
+    "font": "Arial.ttf"
+  },
+  "speak_v3.png": {
+    "captcha": "KaEPs",
+    "word": "speak",
+    "font": "Times New Roman.ttf"
+  },
+  "speak_v4.png": {
+    "captcha": "kaeps",
+    "word": "speak",
+    "font": "Courier New.ttf"
+  },
+  "speak_v5.png": {
+    "captcha": "SpeAk",
+    "word": "speak",
+    "font": "Arial.ttf"
+  },
+  "speak_v6.png": {
+    "captcha": "kAeps",
+    "word": "speak",
+    "font": "Courier New.ttf"
+  },
+  "speak_v7.png": {
+    "captcha": "sPEAk",
+    "word": "speak",
+    "font": "Times New Roman.ttf"
+  },
+  "speak_v8.png": {
+    "captcha": "SpEAK",
+    "word": "speak",
+    "font": "Times New Roman.ttf"
+  },
+  "speak_v9.png": {
+    "captcha": "sPEAk",
+    "word": "speak",
+    "font": "Times New Roman.ttf"
+  },
+  "bill_v0.png": {
+    "captcha": "bIlL",
+    "word": "bill",
+    "font": "Arial.ttf"
+  },
+  "bill_v1.png": {
+    "captcha": "BILL",
+    "word": "bill",
+    "font": "Times New Roman.ttf"
+  },
+  "bill_v2.png": {
+    "captcha": "LLib",
+    "word": "bill",
+    "font": "Times New Roman.ttf"
+  },
+  "bill_v3.png": {
+    "captcha": "bILL",
+    "word": "bill",
+    "font": "Times New Roman.ttf"
+  },
+  "bill_v4.png": {
+    "captcha": "LLiB",
+    "word": "bill",
+    "font": "Arial.ttf"
+  },
+  "bill_v5.png": {
+    "captcha": "bill",
+    "word": "bill",
+    "font": "Courier New.ttf"
+  },
+  "bill_v6.png": {
+    "captcha": "LLiB",
+    "word": "bill",
+    "font": "Times New Roman.ttf"
+  },
+  "bill_v7.png": {
+    "captcha": "lLiB",
+    "word": "bill",
+    "font": "Arial.ttf"
+  },
+  "bill_v8.png": {
+    "captcha": "BILL",
+    "word": "bill",
+    "font": "Arial.ttf"
+  },
+  "bill_v9.png": {
+    "captcha": "BILL",
+    "word": "bill",
+    "font": "Courier New.ttf"
+  },
+  "last_v0.png": {
+    "captcha": "lAsT",
+    "word": "last",
+    "font": "Courier New.ttf"
+  },
+  "last_v1.png": {
+    "captcha": "tSAl",
+    "word": "last",
+    "font": "Times New Roman.ttf"
+  },
+  "last_v2.png": {
+    "captcha": "tsal",
+    "word": "last",
+    "font": "Times New Roman.ttf"
+  },
+  "last_v3.png": {
+    "captcha": "TsAl",
+    "word": "last",
+    "font": "Times New Roman.ttf"
+  },
+  "last_v4.png": {
+    "captcha": "TsAL",
+    "word": "last",
+    "font": "Arial.ttf"
+  },
+  "last_v5.png": {
+    "captcha": "lASt",
+    "word": "last",
+    "font": "Courier New.ttf"
+  },
+  "last_v6.png": {
+    "captcha": "lAST",
+    "word": "last",
+    "font": "Times New Roman.ttf"
+  },
+  "last_v7.png": {
+    "captcha": "TSAL",
+    "word": "last",
+    "font": "Arial.ttf"
+  },
+  "last_v8.png": {
+    "captcha": "TsAL",
+    "word": "last",
+    "font": "Arial.ttf"
+  },
+  "last_v9.png": {
+    "captcha": "tSal",
+    "word": "last",
+    "font": "Times New Roman.ttf"
+  },
+  "foot_v0.png": {
+    "captcha": "fOot",
+    "word": "foot",
+    "font": "Times New Roman.ttf"
+  },
+  "foot_v1.png": {
+    "captcha": "FOOT",
+    "word": "foot",
+    "font": "Arial.ttf"
+  },
+  "foot_v2.png": {
+    "captcha": "FoOt",
+    "word": "foot",
+    "font": "Courier New.ttf"
+  },
+  "foot_v3.png": {
+    "captcha": "ToOF",
+    "word": "foot",
+    "font": "Courier New.ttf"
+  },
+  "foot_v4.png": {
+    "captcha": "fOot",
+    "word": "foot",
+    "font": "Arial.ttf"
+  },
+  "foot_v5.png": {
+    "captcha": "foOT",
+    "word": "foot",
+    "font": "Arial.ttf"
+  },
+  "foot_v6.png": {
+    "captcha": "tOoF",
+    "word": "foot",
+    "font": "Times New Roman.ttf"
+  },
+  "foot_v7.png": {
+    "captcha": "TOoF",
+    "word": "foot",
+    "font": "Courier New.ttf"
+  },
+  "foot_v8.png": {
+    "captcha": "tOoF",
+    "word": "foot",
+    "font": "Arial.ttf"
+  },
+  "foot_v9.png": {
+    "captcha": "foOt",
+    "word": "foot",
+    "font": "Times New Roman.ttf"
+  },
+  "employee_v0.png": {
+    "captcha": "EEyoLpmE",
+    "word": "employee",
+    "font": "Times New Roman.ttf"
+  },
+  "employee_v1.png": {
+    "captcha": "EMploYee",
+    "word": "employee",
+    "font": "Times New Roman.ttf"
+  },
+  "employee_v2.png": {
+    "captcha": "eEyolpME",
+    "word": "employee",
+    "font": "Arial.ttf"
+  },
+  "employee_v3.png": {
+    "captcha": "eeYoLPMe",
+    "word": "employee",
+    "font": "Courier New.ttf"
+  },
+  "employee_v4.png": {
+    "captcha": "emPLOyeE",
+    "word": "employee",
+    "font": "Courier New.ttf"
+  },
+  "employee_v5.png": {
+    "captcha": "eMpLOyeE",
+    "word": "employee",
+    "font": "Times New Roman.ttf"
+  },
+  "employee_v6.png": {
+    "captcha": "eEyOlPmE",
+    "word": "employee",
+    "font": "Times New Roman.ttf"
+  },
+  "employee_v7.png": {
+    "captcha": "eeyolpME",
+    "word": "employee",
+    "font": "Courier New.ttf"
+  },
+  "employee_v8.png": {
+    "captcha": "eMpLOYeE",
+    "word": "employee",
+    "font": "Times New Roman.ttf"
+  },
+  "employee_v9.png": {
+    "captcha": "eEYOLPME",
+    "word": "employee",
+    "font": "Times New Roman.ttf"
+  },
+  "start_v0.png": {
+    "captcha": "tRats",
+    "word": "start",
+    "font": "Arial.ttf"
+  },
+  "start_v1.png": {
+    "captcha": "stArt",
+    "word": "start",
+    "font": "Times New Roman.ttf"
+  },
+  "start_v2.png": {
+    "captcha": "sTart",
+    "word": "start",
+    "font": "Courier New.ttf"
+  },
+  "start_v3.png": {
+    "captcha": "traTS",
+    "word": "start",
+    "font": "Arial.ttf"
+  },
+  "start_v4.png": {
+    "captcha": "StarT",
+    "word": "start",
+    "font": "Arial.ttf"
+  },
+  "start_v5.png": {
+    "captcha": "tRATS",
+    "word": "start",
+    "font": "Times New Roman.ttf"
+  },
+  "start_v6.png": {
+    "captcha": "sTArT",
+    "word": "start",
+    "font": "Times New Roman.ttf"
+  },
+  "start_v7.png": {
+    "captcha": "STArt",
+    "word": "start",
+    "font": "Arial.ttf"
+  },
+  "start_v8.png": {
+    "captcha": "stART",
+    "word": "start",
+    "font": "Times New Roman.ttf"
+  },
+  "start_v9.png": {
+    "captcha": "sTaRT",
+    "word": "start",
+    "font": "Times New Roman.ttf"
+  },
+  "through_v0.png": {
+    "captcha": "ThrOUGH",
+    "word": "through",
+    "font": "Times New Roman.ttf"
+  },
+  "through_v1.png": {
+    "captcha": "HGUORhT",
+    "word": "through",
+    "font": "Courier New.ttf"
+  },
+  "through_v2.png": {
+    "captcha": "thrOUgh",
+    "word": "through",
+    "font": "Arial.ttf"
+  },
+  "through_v3.png": {
+    "captcha": "HGUorhT",
+    "word": "through",
+    "font": "Courier New.ttf"
+  },
+  "through_v4.png": {
+    "captcha": "ThROugH",
+    "word": "through",
+    "font": "Courier New.ttf"
+  },
+  "through_v5.png": {
+    "captcha": "thRough",
+    "word": "through",
+    "font": "Courier New.ttf"
+  },
+  "through_v6.png": {
+    "captcha": "HGuORhT",
+    "word": "through",
+    "font": "Arial.ttf"
+  },
+  "through_v7.png": {
+    "captcha": "tHrOUgH",
+    "word": "through",
+    "font": "Courier New.ttf"
+  },
+  "through_v8.png": {
+    "captcha": "HGUORht",
+    "word": "through",
+    "font": "Arial.ttf"
+  },
+  "through_v9.png": {
+    "captcha": "tHRoUgH",
+    "word": "through",
+    "font": "Arial.ttf"
+  },
+  "future_v0.png": {
+    "captcha": "ErUtUF",
+    "word": "future",
+    "font": "Arial.ttf"
+  },
+  "future_v1.png": {
+    "captcha": "ErutUf",
+    "word": "future",
+    "font": "Times New Roman.ttf"
+  },
+  "future_v2.png": {
+    "captcha": "ERUtuF",
+    "word": "future",
+    "font": "Arial.ttf"
+  },
+  "future_v3.png": {
+    "captcha": "eruTuF",
+    "word": "future",
+    "font": "Courier New.ttf"
+  },
+  "future_v4.png": {
+    "captcha": "eRutUF",
+    "word": "future",
+    "font": "Arial.ttf"
+  },
+  "future_v5.png": {
+    "captcha": "FUTURE",
+    "word": "future",
+    "font": "Arial.ttf"
+  },
+  "future_v6.png": {
+    "captcha": "Future",
+    "word": "future",
+    "font": "Times New Roman.ttf"
+  },
+  "future_v7.png": {
+    "captcha": "eRUTuf",
+    "word": "future",
+    "font": "Times New Roman.ttf"
+  },
+  "future_v8.png": {
+    "captcha": "ErutUF",
+    "word": "future",
+    "font": "Times New Roman.ttf"
+  },
+  "future_v9.png": {
+    "captcha": "eRuTUf",
+    "word": "future",
+    "font": "Arial.ttf"
+  },
+  "begin_v0.png": {
+    "captcha": "NIgeb",
+    "word": "begin",
+    "font": "Arial.ttf"
+  },
+  "begin_v1.png": {
+    "captcha": "bEGin",
+    "word": "begin",
+    "font": "Times New Roman.ttf"
+  },
+  "begin_v2.png": {
+    "captcha": "NIGeb",
+    "word": "begin",
+    "font": "Arial.ttf"
+  },
+  "begin_v3.png": {
+    "captcha": "beGiN",
+    "word": "begin",
+    "font": "Times New Roman.ttf"
+  },
+  "begin_v4.png": {
+    "captcha": "niGeb",
+    "word": "begin",
+    "font": "Arial.ttf"
+  },
+  "begin_v5.png": {
+    "captcha": "BegiN",
+    "word": "begin",
+    "font": "Times New Roman.ttf"
+  },
+  "begin_v6.png": {
+    "captcha": "NIgEB",
+    "word": "begin",
+    "font": "Times New Roman.ttf"
+  },
+  "begin_v7.png": {
+    "captcha": "nIGEB",
+    "word": "begin",
+    "font": "Courier New.ttf"
+  },
+  "begin_v8.png": {
+    "captcha": "bEgiN",
+    "word": "begin",
+    "font": "Arial.ttf"
+  },
+  "begin_v9.png": {
+    "captcha": "beGIn",
+    "word": "begin",
+    "font": "Arial.ttf"
+  },
+  "answer_v0.png": {
+    "captcha": "anSWeR",
+    "word": "answer",
+    "font": "Courier New.ttf"
+  },
+  "answer_v1.png": {
+    "captcha": "reWSNa",
+    "word": "answer",
+    "font": "Arial.ttf"
+  },
+  "answer_v2.png": {
+    "captcha": "REWSNa",
+    "word": "answer",
+    "font": "Arial.ttf"
+  },
+  "answer_v3.png": {
+    "captcha": "ansWEr",
+    "word": "answer",
+    "font": "Arial.ttf"
+  },
+  "answer_v4.png": {
+    "captcha": "rewSna",
+    "word": "answer",
+    "font": "Courier New.ttf"
+  },
+  "answer_v5.png": {
+    "captcha": "anSwer",
+    "word": "answer",
+    "font": "Arial.ttf"
+  },
+  "answer_v6.png": {
+    "captcha": "RewSNA",
+    "word": "answer",
+    "font": "Arial.ttf"
+  },
+  "answer_v7.png": {
+    "captcha": "anSWEr",
+    "word": "answer",
+    "font": "Times New Roman.ttf"
+  },
+  "answer_v8.png": {
+    "captcha": "reWsNa",
+    "word": "answer",
+    "font": "Courier New.ttf"
+  },
+  "answer_v9.png": {
+    "captcha": "ReWSNA",
+    "word": "answer",
+    "font": "Arial.ttf"
+  },
+  "maintain_v0.png": {
+    "captcha": "NIaTNIAM",
+    "word": "maintain",
+    "font": "Arial.ttf"
+  },
+  "maintain_v1.png": {
+    "captcha": "nIaTNiAm",
+    "word": "maintain",
+    "font": "Courier New.ttf"
+  },
+  "maintain_v2.png": {
+    "captcha": "maintAIn",
+    "word": "maintain",
+    "font": "Times New Roman.ttf"
+  },
+  "maintain_v3.png": {
+    "captcha": "MaiNTAin",
+    "word": "maintain",
+    "font": "Arial.ttf"
+  },
+  "maintain_v4.png": {
+    "captcha": "nIAtnIAm",
+    "word": "maintain",
+    "font": "Courier New.ttf"
+  },
+  "maintain_v5.png": {
+    "captcha": "NiatNIam",
+    "word": "maintain",
+    "font": "Courier New.ttf"
+  },
+  "maintain_v6.png": {
+    "captcha": "MaInTaIN",
+    "word": "maintain",
+    "font": "Courier New.ttf"
+  },
+  "maintain_v7.png": {
+    "captcha": "nIaTnIam",
+    "word": "maintain",
+    "font": "Courier New.ttf"
+  },
+  "maintain_v8.png": {
+    "captcha": "maINTAin",
+    "word": "maintain",
+    "font": "Times New Roman.ttf"
+  },
+  "maintain_v9.png": {
+    "captcha": "MAINtAIN",
+    "word": "maintain",
+    "font": "Times New Roman.ttf"
+  },
+  "able_v0.png": {
+    "captcha": "ELba",
+    "word": "able",
+    "font": "Arial.ttf"
+  },
+  "able_v1.png": {
+    "captcha": "ElBa",
+    "word": "able",
+    "font": "Courier New.ttf"
+  },
+  "able_v2.png": {
+    "captcha": "AblE",
+    "word": "able",
+    "font": "Arial.ttf"
+  },
+  "able_v3.png": {
+    "captcha": "AbLE",
+    "word": "able",
+    "font": "Arial.ttf"
+  },
+  "able_v4.png": {
+    "captcha": "aBlE",
+    "word": "able",
+    "font": "Courier New.ttf"
+  },
+  "able_v5.png": {
+    "captcha": "eLbA",
+    "word": "able",
+    "font": "Times New Roman.ttf"
+  },
+  "able_v6.png": {
+    "captcha": "ABle",
+    "word": "able",
+    "font": "Arial.ttf"
+  },
+  "able_v7.png": {
+    "captcha": "eLba",
+    "word": "able",
+    "font": "Times New Roman.ttf"
+  },
+  "able_v8.png": {
+    "captcha": "ABle",
+    "word": "able",
+    "font": "Times New Roman.ttf"
+  },
+  "able_v9.png": {
+    "captcha": "ELBA",
+    "word": "able",
+    "font": "Times New Roman.ttf"
+  },
+  "show_v0.png": {
+    "captcha": "wOhs",
+    "word": "show",
+    "font": "Times New Roman.ttf"
+  },
+  "show_v1.png": {
+    "captcha": "SHOW",
+    "word": "show",
+    "font": "Times New Roman.ttf"
+  },
+  "show_v2.png": {
+    "captcha": "WOHs",
+    "word": "show",
+    "font": "Arial.ttf"
+  },
+  "show_v3.png": {
+    "captcha": "SHOw",
+    "word": "show",
+    "font": "Times New Roman.ttf"
+  },
+  "show_v4.png": {
+    "captcha": "wOHS",
+    "word": "show",
+    "font": "Arial.ttf"
+  },
+  "show_v5.png": {
+    "captcha": "wOhs",
+    "word": "show",
+    "font": "Times New Roman.ttf"
+  },
+  "show_v6.png": {
+    "captcha": "wOHS",
+    "word": "show",
+    "font": "Times New Roman.ttf"
+  },
+  "show_v7.png": {
+    "captcha": "woHS",
+    "word": "show",
+    "font": "Arial.ttf"
+  },
+  "show_v8.png": {
+    "captcha": "WOhs",
+    "word": "show",
+    "font": "Times New Roman.ttf"
+  },
+  "show_v9.png": {
+    "captcha": "sHOw",
+    "word": "show",
+    "font": "Times New Roman.ttf"
+  },
+  "trouble_v0.png": {
+    "captcha": "ELbUoRT",
+    "word": "trouble",
+    "font": "Courier New.ttf"
+  },
+  "trouble_v1.png": {
+    "captcha": "trOUBLE",
+    "word": "trouble",
+    "font": "Arial.ttf"
+  },
+  "trouble_v2.png": {
+    "captcha": "elBuOrT",
+    "word": "trouble",
+    "font": "Courier New.ttf"
+  },
+  "trouble_v3.png": {
+    "captcha": "troubLE",
+    "word": "trouble",
+    "font": "Courier New.ttf"
+  },
+  "trouble_v4.png": {
+    "captcha": "TRouBlE",
+    "word": "trouble",
+    "font": "Arial.ttf"
+  },
+  "trouble_v5.png": {
+    "captcha": "ELBUOrt",
+    "word": "trouble",
+    "font": "Arial.ttf"
+  },
+  "trouble_v6.png": {
+    "captcha": "elbUORT",
+    "word": "trouble",
+    "font": "Arial.ttf"
+  },
+  "trouble_v7.png": {
+    "captcha": "tRoUBlE",
+    "word": "trouble",
+    "font": "Arial.ttf"
+  },
+  "trouble_v8.png": {
+    "captcha": "elBUORt",
+    "word": "trouble",
+    "font": "Courier New.ttf"
+  },
+  "trouble_v9.png": {
+    "captcha": "TRoUbLE",
+    "word": "trouble",
+    "font": "Courier New.ttf"
+  },
+  "such_v0.png": {
+    "captcha": "sUch",
+    "word": "such",
+    "font": "Times New Roman.ttf"
+  },
+  "such_v1.png": {
+    "captcha": "SuCh",
+    "word": "such",
+    "font": "Arial.ttf"
+  },
+  "such_v2.png": {
+    "captcha": "SucH",
+    "word": "such",
+    "font": "Courier New.ttf"
+  },
+  "such_v3.png": {
+    "captcha": "sUCH",
+    "word": "such",
+    "font": "Times New Roman.ttf"
+  },
+  "such_v4.png": {
+    "captcha": "sUCh",
+    "word": "such",
+    "font": "Times New Roman.ttf"
+  },
+  "such_v5.png": {
+    "captcha": "sucH",
+    "word": "such",
+    "font": "Arial.ttf"
+  },
+  "such_v6.png": {
+    "captcha": "HCus",
+    "word": "such",
+    "font": "Courier New.ttf"
+  },
+  "such_v7.png": {
+    "captcha": "HCuS",
+    "word": "such",
+    "font": "Times New Roman.ttf"
+  },
+  "such_v8.png": {
+    "captcha": "HcUs",
+    "word": "such",
+    "font": "Courier New.ttf"
+  },
+  "such_v9.png": {
+    "captcha": "hcUs",
+    "word": "such",
+    "font": "Times New Roman.ttf"
+  },
+  "note_v0.png": {
+    "captcha": "nOte",
+    "word": "note",
+    "font": "Courier New.ttf"
+  },
+  "note_v1.png": {
+    "captcha": "NOtE",
+    "word": "note",
+    "font": "Arial.ttf"
+  },
+  "note_v2.png": {
+    "captcha": "NoTe",
+    "word": "note",
+    "font": "Courier New.ttf"
+  },
+  "note_v3.png": {
+    "captcha": "nOTe",
+    "word": "note",
+    "font": "Arial.ttf"
+  },
+  "note_v4.png": {
+    "captcha": "etoN",
+    "word": "note",
+    "font": "Times New Roman.ttf"
+  },
+  "note_v5.png": {
+    "captcha": "NOTe",
+    "word": "note",
+    "font": "Arial.ttf"
+  },
+  "note_v6.png": {
+    "captcha": "ETon",
+    "word": "note",
+    "font": "Arial.ttf"
+  },
+  "note_v7.png": {
+    "captcha": "Eton",
+    "word": "note",
+    "font": "Times New Roman.ttf"
+  },
+  "note_v8.png": {
+    "captcha": "NOte",
+    "word": "note",
+    "font": "Times New Roman.ttf"
+  },
+  "note_v9.png": {
+    "captcha": "eTOn",
+    "word": "note",
+    "font": "Courier New.ttf"
+  },
+  "spend_v0.png": {
+    "captcha": "sPEnd",
+    "word": "spend",
+    "font": "Courier New.ttf"
+  },
+  "spend_v1.png": {
+    "captcha": "SpEnd",
+    "word": "spend",
+    "font": "Arial.ttf"
+  },
+  "spend_v2.png": {
+    "captcha": "SpEnd",
+    "word": "spend",
+    "font": "Courier New.ttf"
+  },
+  "spend_v3.png": {
+    "captcha": "spEnD",
+    "word": "spend",
+    "font": "Courier New.ttf"
+  },
+  "spend_v4.png": {
+    "captcha": "dNEpS",
+    "word": "spend",
+    "font": "Times New Roman.ttf"
+  },
+  "spend_v5.png": {
+    "captcha": "SPEnd",
+    "word": "spend",
+    "font": "Arial.ttf"
+  },
+  "spend_v6.png": {
+    "captcha": "sPEnd",
+    "word": "spend",
+    "font": "Arial.ttf"
+  },
+  "spend_v7.png": {
+    "captcha": "SPeNd",
+    "word": "spend",
+    "font": "Times New Roman.ttf"
+  },
+  "spend_v8.png": {
+    "captcha": "sPENd",
+    "word": "spend",
+    "font": "Courier New.ttf"
+  },
+  "spend_v9.png": {
+    "captcha": "DNEpS",
+    "word": "spend",
+    "font": "Times New Roman.ttf"
+  },
+  "involve_v0.png": {
+    "captcha": "INvoLVE",
+    "word": "involve",
+    "font": "Times New Roman.ttf"
+  },
+  "involve_v1.png": {
+    "captcha": "EVlovNI",
+    "word": "involve",
+    "font": "Arial.ttf"
+  },
+  "involve_v2.png": {
+    "captcha": "inVOLvE",
+    "word": "involve",
+    "font": "Courier New.ttf"
+  },
+  "involve_v3.png": {
+    "captcha": "INVOLve",
+    "word": "involve",
+    "font": "Courier New.ttf"
+  },
+  "involve_v4.png": {
+    "captcha": "iNvOlvE",
+    "word": "involve",
+    "font": "Arial.ttf"
+  },
+  "involve_v5.png": {
+    "captcha": "eVLovNi",
+    "word": "involve",
+    "font": "Courier New.ttf"
+  },
+  "involve_v6.png": {
+    "captcha": "eVlOVni",
+    "word": "involve",
+    "font": "Times New Roman.ttf"
+  },
+  "involve_v7.png": {
+    "captcha": "evLOVNi",
+    "word": "involve",
+    "font": "Arial.ttf"
+  },
+  "involve_v8.png": {
+    "captcha": "INvOlVe",
+    "word": "involve",
+    "font": "Times New Roman.ttf"
+  },
+  "involve_v9.png": {
+    "captcha": "InVolVE",
+    "word": "involve",
+    "font": "Arial.ttf"
+  },
+  "close_v0.png": {
+    "captcha": "ClOSe",
+    "word": "close",
+    "font": "Arial.ttf"
+  },
+  "close_v1.png": {
+    "captcha": "clOSE",
+    "word": "close",
+    "font": "Times New Roman.ttf"
+  },
+  "close_v2.png": {
+    "captcha": "clOse",
+    "word": "close",
+    "font": "Courier New.ttf"
+  },
+  "close_v3.png": {
+    "captcha": "ClOSE",
+    "word": "close",
+    "font": "Times New Roman.ttf"
+  },
+  "close_v4.png": {
+    "captcha": "eSOlc",
+    "word": "close",
+    "font": "Arial.ttf"
+  },
+  "close_v5.png": {
+    "captcha": "closE",
+    "word": "close",
+    "font": "Times New Roman.ttf"
+  },
+  "close_v6.png": {
+    "captcha": "CLOSe",
+    "word": "close",
+    "font": "Times New Roman.ttf"
+  },
+  "close_v7.png": {
+    "captcha": "cLOSE",
+    "word": "close",
+    "font": "Times New Roman.ttf"
+  },
+  "close_v8.png": {
+    "captcha": "cLOSe",
+    "word": "close",
+    "font": "Arial.ttf"
+  },
+  "close_v9.png": {
+    "captcha": "CloSe",
+    "word": "close",
+    "font": "Arial.ttf"
+  },
+  "save_v0.png": {
+    "captcha": "SAvE",
+    "word": "save",
+    "font": "Arial.ttf"
+  },
+  "save_v1.png": {
+    "captcha": "SAve",
+    "word": "save",
+    "font": "Times New Roman.ttf"
+  },
+  "save_v2.png": {
+    "captcha": "savE",
+    "word": "save",
+    "font": "Times New Roman.ttf"
+  },
+  "save_v3.png": {
+    "captcha": "sAVE",
+    "word": "save",
+    "font": "Arial.ttf"
+  },
+  "save_v4.png": {
+    "captcha": "EVaS",
+    "word": "save",
+    "font": "Courier New.ttf"
+  },
+  "save_v5.png": {
+    "captcha": "eVAs",
+    "word": "save",
+    "font": "Courier New.ttf"
+  },
+  "save_v6.png": {
+    "captcha": "evAS",
+    "word": "save",
+    "font": "Arial.ttf"
+  },
+  "save_v7.png": {
+    "captcha": "evAS",
+    "word": "save",
+    "font": "Courier New.ttf"
+  },
+  "save_v8.png": {
+    "captcha": "SavE",
+    "word": "save",
+    "font": "Courier New.ttf"
+  },
+  "save_v9.png": {
+    "captcha": "sAVe",
+    "word": "save",
+    "font": "Arial.ttf"
+  },
+  "west_v0.png": {
+    "captcha": "tsew",
+    "word": "west",
+    "font": "Courier New.ttf"
+  },
+  "west_v1.png": {
+    "captcha": "TSeW",
+    "word": "west",
+    "font": "Courier New.ttf"
+  },
+  "west_v2.png": {
+    "captcha": "tSeW",
+    "word": "west",
+    "font": "Times New Roman.ttf"
+  },
+  "west_v3.png": {
+    "captcha": "tSeW",
+    "word": "west",
+    "font": "Arial.ttf"
+  },
+  "west_v4.png": {
+    "captcha": "TSEW",
+    "word": "west",
+    "font": "Courier New.ttf"
+  },
+  "west_v5.png": {
+    "captcha": "wEsT",
+    "word": "west",
+    "font": "Times New Roman.ttf"
+  },
+  "west_v6.png": {
+    "captcha": "WESt",
+    "word": "west",
+    "font": "Arial.ttf"
+  },
+  "west_v7.png": {
+    "captcha": "WESt",
+    "word": "west",
+    "font": "Times New Roman.ttf"
+  },
+  "west_v8.png": {
+    "captcha": "TSEW",
+    "word": "west",
+    "font": "Times New Roman.ttf"
+  },
+  "west_v9.png": {
+    "captcha": "WeSt",
+    "word": "west",
+    "font": "Arial.ttf"
+  },
+  "class_v0.png": {
+    "captcha": "CLAsS",
+    "word": "class",
+    "font": "Arial.ttf"
+  },
+  "class_v1.png": {
+    "captcha": "clasS",
+    "word": "class",
+    "font": "Courier New.ttf"
+  },
+  "class_v2.png": {
+    "captcha": "ClaSS",
+    "word": "class",
+    "font": "Arial.ttf"
+  },
+  "class_v3.png": {
+    "captcha": "CLASS",
+    "word": "class",
+    "font": "Times New Roman.ttf"
+  },
+  "class_v4.png": {
+    "captcha": "cLASs",
+    "word": "class",
+    "font": "Times New Roman.ttf"
+  },
+  "class_v5.png": {
+    "captcha": "cLaSs",
+    "word": "class",
+    "font": "Arial.ttf"
+  },
+  "class_v6.png": {
+    "captcha": "cLasS",
+    "word": "class",
+    "font": "Arial.ttf"
+  },
+  "class_v7.png": {
+    "captcha": "CLASs",
+    "word": "class",
+    "font": "Arial.ttf"
+  },
+  "class_v8.png": {
+    "captcha": "claSS",
+    "word": "class",
+    "font": "Courier New.ttf"
+  },
+  "class_v9.png": {
+    "captcha": "cLASS",
+    "word": "class",
+    "font": "Times New Roman.ttf"
+  },
+  "until_v0.png": {
+    "captcha": "liTnu",
+    "word": "until",
+    "font": "Times New Roman.ttf"
+  },
+  "until_v1.png": {
+    "captcha": "litNU",
+    "word": "until",
+    "font": "Arial.ttf"
+  },
+  "until_v2.png": {
+    "captcha": "liTnU",
+    "word": "until",
+    "font": "Courier New.ttf"
+  },
+  "until_v3.png": {
+    "captcha": "UNtIL",
+    "word": "until",
+    "font": "Courier New.ttf"
+  },
+  "until_v4.png": {
+    "captcha": "LiTnU",
+    "word": "until",
+    "font": "Courier New.ttf"
+  },
+  "until_v5.png": {
+    "captcha": "LITNu",
+    "word": "until",
+    "font": "Courier New.ttf"
+  },
+  "until_v6.png": {
+    "captcha": "lItnu",
+    "word": "until",
+    "font": "Times New Roman.ttf"
+  },
+  "until_v7.png": {
+    "captcha": "UNtiL",
+    "word": "until",
+    "font": "Arial.ttf"
+  },
+  "until_v8.png": {
+    "captcha": "lITnu",
+    "word": "until",
+    "font": "Times New Roman.ttf"
+  },
+  "until_v9.png": {
+    "captcha": "lItnu",
+    "word": "until",
+    "font": "Arial.ttf"
+  },
+  "three_v0.png": {
+    "captcha": "ThreE",
+    "word": "three",
+    "font": "Arial.ttf"
+  },
+  "three_v1.png": {
+    "captcha": "ThREe",
+    "word": "three",
+    "font": "Arial.ttf"
+  },
+  "three_v2.png": {
+    "captcha": "three",
+    "word": "three",
+    "font": "Arial.ttf"
+  },
+  "three_v3.png": {
+    "captcha": "EeRhT",
+    "word": "three",
+    "font": "Times New Roman.ttf"
+  },
+  "three_v4.png": {
+    "captcha": "ThreE",
+    "word": "three",
+    "font": "Times New Roman.ttf"
+  },
+  "three_v5.png": {
+    "captcha": "EerHt",
+    "word": "three",
+    "font": "Arial.ttf"
+  },
+  "three_v6.png": {
+    "captcha": "eeRht",
+    "word": "three",
+    "font": "Arial.ttf"
+  },
+  "three_v7.png": {
+    "captcha": "EERht",
+    "word": "three",
+    "font": "Times New Roman.ttf"
+  },
+  "three_v8.png": {
+    "captcha": "thrEe",
+    "word": "three",
+    "font": "Times New Roman.ttf"
+  },
+  "three_v9.png": {
+    "captcha": "eErhT",
+    "word": "three",
+    "font": "Courier New.ttf"
+  },
+  "consumer_v0.png": {
+    "captcha": "ConsUMer",
+    "word": "consumer",
+    "font": "Arial.ttf"
+  },
+  "consumer_v1.png": {
+    "captcha": "coNSumeR",
+    "word": "consumer",
+    "font": "Courier New.ttf"
+  },
+  "consumer_v2.png": {
+    "captcha": "rEMuSNoc",
+    "word": "consumer",
+    "font": "Courier New.ttf"
+  },
+  "consumer_v3.png": {
+    "captcha": "RemUSnoC",
+    "word": "consumer",
+    "font": "Courier New.ttf"
+  },
+  "consumer_v4.png": {
+    "captcha": "ReMUsnoc",
+    "word": "consumer",
+    "font": "Arial.ttf"
+  },
+  "consumer_v5.png": {
+    "captcha": "REmUsNoc",
+    "word": "consumer",
+    "font": "Arial.ttf"
+  },
+  "consumer_v6.png": {
+    "captcha": "cOnSumER",
+    "word": "consumer",
+    "font": "Courier New.ttf"
+  },
+  "consumer_v7.png": {
+    "captcha": "reMusnOC",
+    "word": "consumer",
+    "font": "Arial.ttf"
+  },
+  "consumer_v8.png": {
+    "captcha": "remuSnOC",
+    "word": "consumer",
+    "font": "Times New Roman.ttf"
+  },
+  "consumer_v9.png": {
+    "captcha": "rEmUsNoc",
+    "word": "consumer",
+    "font": "Times New Roman.ttf"
+  },
+  "course_v0.png": {
+    "captcha": "cOURSE",
+    "word": "course",
+    "font": "Arial.ttf"
+  },
+  "course_v1.png": {
+    "captcha": "ESrUOc",
+    "word": "course",
+    "font": "Times New Roman.ttf"
+  },
+  "course_v2.png": {
+    "captcha": "EsrUoc",
+    "word": "course",
+    "font": "Courier New.ttf"
+  },
+  "course_v3.png": {
+    "captcha": "eSRuoc",
+    "word": "course",
+    "font": "Courier New.ttf"
+  },
+  "course_v4.png": {
+    "captcha": "CoUrsE",
+    "word": "course",
+    "font": "Arial.ttf"
+  },
+  "course_v5.png": {
+    "captcha": "couRsE",
+    "word": "course",
+    "font": "Courier New.ttf"
+  },
+  "course_v6.png": {
+    "captcha": "cOuRse",
+    "word": "course",
+    "font": "Times New Roman.ttf"
+  },
+  "course_v7.png": {
+    "captcha": "Esruoc",
+    "word": "course",
+    "font": "Arial.ttf"
+  },
+  "course_v8.png": {
+    "captcha": "CoURsE",
+    "word": "course",
+    "font": "Times New Roman.ttf"
+  },
+  "course_v9.png": {
+    "captcha": "esrUoc",
+    "word": "course",
+    "font": "Times New Roman.ttf"
+  },
+  "prove_v0.png": {
+    "captcha": "pRoVe",
+    "word": "prove",
+    "font": "Arial.ttf"
+  },
+  "prove_v1.png": {
+    "captcha": "Prove",
+    "word": "prove",
+    "font": "Times New Roman.ttf"
+  },
+  "prove_v2.png": {
+    "captcha": "eVORP",
+    "word": "prove",
+    "font": "Times New Roman.ttf"
+  },
+  "prove_v3.png": {
+    "captcha": "eVoRP",
+    "word": "prove",
+    "font": "Times New Roman.ttf"
+  },
+  "prove_v4.png": {
+    "captcha": "PRoVE",
+    "word": "prove",
+    "font": "Courier New.ttf"
+  },
+  "prove_v5.png": {
+    "captcha": "eVORP",
+    "word": "prove",
+    "font": "Times New Roman.ttf"
+  },
+  "prove_v6.png": {
+    "captcha": "EvOrP",
+    "word": "prove",
+    "font": "Times New Roman.ttf"
+  },
+  "prove_v7.png": {
+    "captcha": "EVoRp",
+    "word": "prove",
+    "font": "Arial.ttf"
+  },
+  "prove_v8.png": {
+    "captcha": "eVorP",
+    "word": "prove",
+    "font": "Courier New.ttf"
+  },
+  "prove_v9.png": {
+    "captcha": "PrOvE",
+    "word": "prove",
+    "font": "Arial.ttf"
+  },
+  "group_v0.png": {
+    "captcha": "puoRg",
+    "word": "group",
+    "font": "Times New Roman.ttf"
+  },
+  "group_v1.png": {
+    "captcha": "PUorg",
+    "word": "group",
+    "font": "Courier New.ttf"
+  },
+  "group_v2.png": {
+    "captcha": "GrOUP",
+    "word": "group",
+    "font": "Arial.ttf"
+  },
+  "group_v3.png": {
+    "captcha": "GrOUP",
+    "word": "group",
+    "font": "Times New Roman.ttf"
+  },
+  "group_v4.png": {
+    "captcha": "GrOUP",
+    "word": "group",
+    "font": "Courier New.ttf"
+  },
+  "group_v5.png": {
+    "captcha": "pUorG",
+    "word": "group",
+    "font": "Arial.ttf"
+  },
+  "group_v6.png": {
+    "captcha": "PUoRg",
+    "word": "group",
+    "font": "Arial.ttf"
+  },
+  "group_v7.png": {
+    "captcha": "gRoUP",
+    "word": "group",
+    "font": "Times New Roman.ttf"
+  },
+  "group_v8.png": {
+    "captcha": "grOup",
+    "word": "group",
+    "font": "Arial.ttf"
+  },
+  "group_v9.png": {
+    "captcha": "pUorG",
+    "word": "group",
+    "font": "Times New Roman.ttf"
+  },
+  "across_v0.png": {
+    "captcha": "SSorCa",
+    "word": "across",
+    "font": "Arial.ttf"
+  },
+  "across_v1.png": {
+    "captcha": "ACROss",
+    "word": "across",
+    "font": "Times New Roman.ttf"
+  },
+  "across_v2.png": {
+    "captcha": "AcrOSs",
+    "word": "across",
+    "font": "Courier New.ttf"
+  },
+  "across_v3.png": {
+    "captcha": "SsorCa",
+    "word": "across",
+    "font": "Times New Roman.ttf"
+  },
+  "across_v4.png": {
+    "captcha": "ACROSS",
+    "word": "across",
+    "font": "Times New Roman.ttf"
+  },
+  "across_v5.png": {
+    "captcha": "ACrOSS",
+    "word": "across",
+    "font": "Arial.ttf"
+  },
+  "across_v6.png": {
+    "captcha": "aCrOsS",
+    "word": "across",
+    "font": "Arial.ttf"
+  },
+  "across_v7.png": {
+    "captcha": "aCrosS",
+    "word": "across",
+    "font": "Times New Roman.ttf"
+  },
+  "across_v8.png": {
+    "captcha": "SsoRCA",
+    "word": "across",
+    "font": "Courier New.ttf"
+  },
+  "across_v9.png": {
+    "captcha": "ACroSs",
+    "word": "across",
+    "font": "Times New Roman.ttf"
+  },
+  "project_v0.png": {
+    "captcha": "PROJEct",
+    "word": "project",
+    "font": "Arial.ttf"
+  },
+  "project_v1.png": {
+    "captcha": "TCEjOrp",
+    "word": "project",
+    "font": "Times New Roman.ttf"
+  },
+  "project_v2.png": {
+    "captcha": "tcEjoRp",
+    "word": "project",
+    "font": "Arial.ttf"
+  },
+  "project_v3.png": {
+    "captcha": "Project",
+    "word": "project",
+    "font": "Times New Roman.ttf"
+  },
+  "project_v4.png": {
+    "captcha": "TCeJORp",
+    "word": "project",
+    "font": "Courier New.ttf"
+  },
+  "project_v5.png": {
+    "captcha": "ProJECT",
+    "word": "project",
+    "font": "Times New Roman.ttf"
+  },
+  "project_v6.png": {
+    "captcha": "TcEJoRp",
+    "word": "project",
+    "font": "Arial.ttf"
+  },
+  "project_v7.png": {
+    "captcha": "TCEjoRP",
+    "word": "project",
+    "font": "Courier New.ttf"
+  },
+  "project_v8.png": {
+    "captcha": "tCeJOrP",
+    "word": "project",
+    "font": "Times New Roman.ttf"
+  },
+  "project_v9.png": {
+    "captcha": "pROjeCt",
+    "word": "project",
+    "font": "Times New Roman.ttf"
+  },
+  "left_v0.png": {
+    "captcha": "tfeL",
+    "word": "left",
+    "font": "Times New Roman.ttf"
+  },
+  "left_v1.png": {
+    "captcha": "TFel",
+    "word": "left",
+    "font": "Arial.ttf"
+  },
+  "left_v2.png": {
+    "captcha": "tfEl",
+    "word": "left",
+    "font": "Courier New.ttf"
+  },
+  "left_v3.png": {
+    "captcha": "Left",
+    "word": "left",
+    "font": "Arial.ttf"
+  },
+  "left_v4.png": {
+    "captcha": "TfeL",
+    "word": "left",
+    "font": "Arial.ttf"
+  },
+  "left_v5.png": {
+    "captcha": "left",
+    "word": "left",
+    "font": "Arial.ttf"
+  },
+  "left_v6.png": {
+    "captcha": "Left",
+    "word": "left",
+    "font": "Arial.ttf"
+  },
+  "left_v7.png": {
+    "captcha": "LeFt",
+    "word": "left",
+    "font": "Times New Roman.ttf"
+  },
+  "left_v8.png": {
+    "captcha": "lEFT",
+    "word": "left",
+    "font": "Times New Roman.ttf"
+  },
+  "left_v9.png": {
+    "captcha": "lEfT",
+    "word": "left",
+    "font": "Times New Roman.ttf"
+  },
+  "loss_v0.png": {
+    "captcha": "lOss",
+    "word": "loss",
+    "font": "Times New Roman.ttf"
+  },
+  "loss_v1.png": {
+    "captcha": "ssOl",
+    "word": "loss",
+    "font": "Arial.ttf"
+  },
+  "loss_v2.png": {
+    "captcha": "SSoL",
+    "word": "loss",
+    "font": "Times New Roman.ttf"
+  },
+  "loss_v3.png": {
+    "captcha": "lOSS",
+    "word": "loss",
+    "font": "Courier New.ttf"
+  },
+  "loss_v4.png": {
+    "captcha": "ssol",
+    "word": "loss",
+    "font": "Times New Roman.ttf"
+  },
+  "loss_v5.png": {
+    "captcha": "SsOl",
+    "word": "loss",
+    "font": "Courier New.ttf"
+  },
+  "loss_v6.png": {
+    "captcha": "LoSs",
+    "word": "loss",
+    "font": "Arial.ttf"
+  },
+  "loss_v7.png": {
+    "captcha": "LOSs",
+    "word": "loss",
+    "font": "Times New Roman.ttf"
+  },
+  "loss_v8.png": {
+    "captcha": "sSOl",
+    "word": "loss",
+    "font": "Courier New.ttf"
+  },
+  "loss_v9.png": {
+    "captcha": "SsOl",
+    "word": "loss",
+    "font": "Courier New.ttf"
+  },
+  "strong_v0.png": {
+    "captcha": "GnORTs",
+    "word": "strong",
+    "font": "Courier New.ttf"
+  },
+  "strong_v1.png": {
+    "captcha": "strONG",
+    "word": "strong",
+    "font": "Courier New.ttf"
+  },
+  "strong_v2.png": {
+    "captcha": "STroNG",
+    "word": "strong",
+    "font": "Times New Roman.ttf"
+  },
+  "strong_v3.png": {
+    "captcha": "sTRONG",
+    "word": "strong",
+    "font": "Times New Roman.ttf"
+  },
+  "strong_v4.png": {
+    "captcha": "STRoNG",
+    "word": "strong",
+    "font": "Arial.ttf"
+  },
+  "strong_v5.png": {
+    "captcha": "stRoNG",
+    "word": "strong",
+    "font": "Arial.ttf"
+  },
+  "strong_v6.png": {
+    "captcha": "GNORtS",
+    "word": "strong",
+    "font": "Arial.ttf"
+  },
+  "strong_v7.png": {
+    "captcha": "gNOrTs",
+    "word": "strong",
+    "font": "Courier New.ttf"
+  },
+  "strong_v8.png": {
+    "captcha": "GNorts",
+    "word": "strong",
+    "font": "Courier New.ttf"
+  },
+  "strong_v9.png": {
+    "captcha": "GnORts",
+    "word": "strong",
+    "font": "Times New Roman.ttf"
+  },
+  "billion_v0.png": {
+    "captcha": "BILLION",
+    "word": "billion",
+    "font": "Arial.ttf"
+  },
+  "billion_v1.png": {
+    "captcha": "BiLLIOn",
+    "word": "billion",
+    "font": "Courier New.ttf"
+  },
+  "billion_v2.png": {
+    "captcha": "bILLIon",
+    "word": "billion",
+    "font": "Arial.ttf"
+  },
+  "billion_v3.png": {
+    "captcha": "BilLIOn",
+    "word": "billion",
+    "font": "Courier New.ttf"
+  },
+  "billion_v4.png": {
+    "captcha": "NOilLiB",
+    "word": "billion",
+    "font": "Courier New.ttf"
+  },
+  "billion_v5.png": {
+    "captcha": "NOiLlib",
+    "word": "billion",
+    "font": "Times New Roman.ttf"
+  },
+  "billion_v6.png": {
+    "captcha": "BILliON",
+    "word": "billion",
+    "font": "Courier New.ttf"
+  },
+  "billion_v7.png": {
+    "captcha": "nOillib",
+    "word": "billion",
+    "font": "Times New Roman.ttf"
+  },
+  "billion_v8.png": {
+    "captcha": "NOILlIB",
+    "word": "billion",
+    "font": "Times New Roman.ttf"
+  },
+  "billion_v9.png": {
+    "captcha": "biLliOn",
+    "word": "billion",
+    "font": "Courier New.ttf"
+  },
+  "once_v0.png": {
+    "captcha": "ONCE",
+    "word": "once",
+    "font": "Arial.ttf"
+  },
+  "once_v1.png": {
+    "captcha": "eCno",
+    "word": "once",
+    "font": "Times New Roman.ttf"
+  },
+  "once_v2.png": {
+    "captcha": "ecno",
+    "word": "once",
+    "font": "Courier New.ttf"
+  },
+  "once_v3.png": {
+    "captcha": "ONce",
+    "word": "once",
+    "font": "Courier New.ttf"
+  },
+  "once_v4.png": {
+    "captcha": "ecno",
+    "word": "once",
+    "font": "Times New Roman.ttf"
+  },
+  "once_v5.png": {
+    "captcha": "OnCe",
+    "word": "once",
+    "font": "Arial.ttf"
+  },
+  "once_v6.png": {
+    "captcha": "ONcE",
+    "word": "once",
+    "font": "Times New Roman.ttf"
+  },
+  "once_v7.png": {
+    "captcha": "OnCe",
+    "word": "once",
+    "font": "Courier New.ttf"
+  },
+  "once_v8.png": {
+    "captcha": "ecNO",
+    "word": "once",
+    "font": "Courier New.ttf"
+  },
+  "once_v9.png": {
+    "captcha": "ecno",
+    "word": "once",
+    "font": "Courier New.ttf"
+  },
+  "decision_v0.png": {
+    "captcha": "noisiced",
+    "word": "decision",
+    "font": "Times New Roman.ttf"
+  },
+  "decision_v1.png": {
+    "captcha": "NoISICEd",
+    "word": "decision",
+    "font": "Arial.ttf"
+  },
+  "decision_v2.png": {
+    "captcha": "Noisiced",
+    "word": "decision",
+    "font": "Times New Roman.ttf"
+  },
+  "decision_v3.png": {
+    "captcha": "dEcISioN",
+    "word": "decision",
+    "font": "Courier New.ttf"
+  },
+  "decision_v4.png": {
+    "captcha": "noiSiCed",
+    "word": "decision",
+    "font": "Times New Roman.ttf"
+  },
+  "decision_v5.png": {
+    "captcha": "nOISICEd",
+    "word": "decision",
+    "font": "Courier New.ttf"
+  },
+  "decision_v6.png": {
+    "captcha": "decISioN",
+    "word": "decision",
+    "font": "Times New Roman.ttf"
+  },
+  "decision_v7.png": {
+    "captcha": "dECISIOn",
+    "word": "decision",
+    "font": "Arial.ttf"
+  },
+  "decision_v8.png": {
+    "captcha": "noisICed",
+    "word": "decision",
+    "font": "Arial.ttf"
+  },
+  "decision_v9.png": {
+    "captcha": "dECIsION",
+    "word": "decision",
+    "font": "Courier New.ttf"
+  },
+  "sign_v0.png": {
+    "captcha": "nGIs",
+    "word": "sign",
+    "font": "Times New Roman.ttf"
+  },
+  "sign_v1.png": {
+    "captcha": "nGIS",
+    "word": "sign",
+    "font": "Times New Roman.ttf"
+  },
+  "sign_v2.png": {
+    "captcha": "nGis",
+    "word": "sign",
+    "font": "Times New Roman.ttf"
+  },
+  "sign_v3.png": {
+    "captcha": "NgIS",
+    "word": "sign",
+    "font": "Arial.ttf"
+  },
+  "sign_v4.png": {
+    "captcha": "Sign",
+    "word": "sign",
+    "font": "Courier New.ttf"
+  },
+  "sign_v5.png": {
+    "captcha": "SigN",
+    "word": "sign",
+    "font": "Courier New.ttf"
+  },
+  "sign_v6.png": {
+    "captcha": "NGIs",
+    "word": "sign",
+    "font": "Courier New.ttf"
+  },
+  "sign_v7.png": {
+    "captcha": "SIgN",
+    "word": "sign",
+    "font": "Arial.ttf"
+  },
+  "sign_v8.png": {
+    "captcha": "NGIs",
+    "word": "sign",
+    "font": "Arial.ttf"
+  },
+  "sign_v9.png": {
+    "captcha": "SiGN",
+    "word": "sign",
+    "font": "Arial.ttf"
+  },
+  "wear_v0.png": {
+    "captcha": "WeAr",
+    "word": "wear",
+    "font": "Times New Roman.ttf"
+  },
+  "wear_v1.png": {
+    "captcha": "raEw",
+    "word": "wear",
+    "font": "Times New Roman.ttf"
+  },
+  "wear_v2.png": {
+    "captcha": "raEW",
+    "word": "wear",
+    "font": "Courier New.ttf"
+  },
+  "wear_v3.png": {
+    "captcha": "wEAR",
+    "word": "wear",
+    "font": "Times New Roman.ttf"
+  },
+  "wear_v4.png": {
+    "captcha": "WEAr",
+    "word": "wear",
+    "font": "Courier New.ttf"
+  },
+  "wear_v5.png": {
+    "captcha": "raEw",
+    "word": "wear",
+    "font": "Times New Roman.ttf"
+  },
+  "wear_v6.png": {
+    "captcha": "RaeW",
+    "word": "wear",
+    "font": "Courier New.ttf"
+  },
+  "wear_v7.png": {
+    "captcha": "wEAR",
+    "word": "wear",
+    "font": "Courier New.ttf"
+  },
+  "wear_v8.png": {
+    "captcha": "Raew",
+    "word": "wear",
+    "font": "Times New Roman.ttf"
+  },
+  "wear_v9.png": {
+    "captcha": "wEar",
+    "word": "wear",
+    "font": "Arial.ttf"
+  },
+  "each_v0.png": {
+    "captcha": "hCae",
+    "word": "each",
+    "font": "Arial.ttf"
+  },
+  "each_v1.png": {
+    "captcha": "HcAE",
+    "word": "each",
+    "font": "Arial.ttf"
+  },
+  "each_v2.png": {
+    "captcha": "hCae",
+    "word": "each",
+    "font": "Arial.ttf"
+  },
+  "each_v3.png": {
+    "captcha": "hCae",
+    "word": "each",
+    "font": "Times New Roman.ttf"
+  },
+  "each_v4.png": {
+    "captcha": "Hcae",
+    "word": "each",
+    "font": "Times New Roman.ttf"
+  },
+  "each_v5.png": {
+    "captcha": "eaCH",
+    "word": "each",
+    "font": "Arial.ttf"
+  },
+  "each_v6.png": {
+    "captcha": "Hcae",
+    "word": "each",
+    "font": "Arial.ttf"
+  },
+  "each_v7.png": {
+    "captcha": "HcAe",
+    "word": "each",
+    "font": "Times New Roman.ttf"
+  },
+  "each_v8.png": {
+    "captcha": "hCaE",
+    "word": "each",
+    "font": "Times New Roman.ttf"
+  },
+  "each_v9.png": {
+    "captcha": "eAch",
+    "word": "each",
+    "font": "Times New Roman.ttf"
+  },
+  "because_v0.png": {
+    "captcha": "eSUAcEb",
+    "word": "because",
+    "font": "Courier New.ttf"
+  },
+  "because_v1.png": {
+    "captcha": "beCaUSE",
+    "word": "because",
+    "font": "Courier New.ttf"
+  },
+  "because_v2.png": {
+    "captcha": "eSUACEB",
+    "word": "because",
+    "font": "Arial.ttf"
+  },
+  "because_v3.png": {
+    "captcha": "BecAUSE",
+    "word": "because",
+    "font": "Courier New.ttf"
+  },
+  "because_v4.png": {
+    "captcha": "esuACEB",
+    "word": "because",
+    "font": "Arial.ttf"
+  },
+  "because_v5.png": {
+    "captcha": "bEcause",
+    "word": "because",
+    "font": "Courier New.ttf"
+  },
+  "because_v6.png": {
+    "captcha": "eSUAcEb",
+    "word": "because",
+    "font": "Times New Roman.ttf"
+  },
+  "because_v7.png": {
+    "captcha": "BEcAUse",
+    "word": "because",
+    "font": "Times New Roman.ttf"
+  },
+  "because_v8.png": {
+    "captcha": "beCAuSE",
+    "word": "because",
+    "font": "Courier New.ttf"
+  },
+  "because_v9.png": {
+    "captcha": "becaUSe",
+    "word": "because",
+    "font": "Courier New.ttf"
+  },
+  "article_v0.png": {
+    "captcha": "ElcitRA",
+    "word": "article",
+    "font": "Courier New.ttf"
+  },
+  "article_v1.png": {
+    "captcha": "ARtICLe",
+    "word": "article",
+    "font": "Times New Roman.ttf"
+  },
+  "article_v2.png": {
+    "captcha": "eLCitrA",
+    "word": "article",
+    "font": "Courier New.ttf"
+  },
+  "article_v3.png": {
+    "captcha": "ArTIcLe",
+    "word": "article",
+    "font": "Courier New.ttf"
+  },
+  "article_v4.png": {
+    "captcha": "ELcItrA",
+    "word": "article",
+    "font": "Times New Roman.ttf"
+  },
+  "article_v5.png": {
+    "captcha": "arTIclE",
+    "word": "article",
+    "font": "Courier New.ttf"
+  },
+  "article_v6.png": {
+    "captcha": "aRtiCle",
+    "word": "article",
+    "font": "Times New Roman.ttf"
+  },
+  "article_v7.png": {
+    "captcha": "elCiTrA",
+    "word": "article",
+    "font": "Times New Roman.ttf"
+  },
+  "article_v8.png": {
+    "captcha": "ELCITrA",
+    "word": "article",
+    "font": "Times New Roman.ttf"
+  },
+  "article_v9.png": {
+    "captcha": "elciTRA",
+    "word": "article",
+    "font": "Arial.ttf"
+  },
+  "current_v0.png": {
+    "captcha": "TNERRUC",
+    "word": "current",
+    "font": "Arial.ttf"
+  },
+  "current_v1.png": {
+    "captcha": "CURREnT",
+    "word": "current",
+    "font": "Times New Roman.ttf"
+  },
+  "current_v2.png": {
+    "captcha": "tnErrUC",
+    "word": "current",
+    "font": "Courier New.ttf"
+  },
+  "current_v3.png": {
+    "captcha": "curReNT",
+    "word": "current",
+    "font": "Times New Roman.ttf"
+  },
+  "current_v4.png": {
+    "captcha": "cuRrEnt",
+    "word": "current",
+    "font": "Arial.ttf"
+  },
+  "current_v5.png": {
+    "captcha": "tneRRuC",
+    "word": "current",
+    "font": "Times New Roman.ttf"
+  },
+  "current_v6.png": {
+    "captcha": "CuRrEnt",
+    "word": "current",
+    "font": "Times New Roman.ttf"
+  },
+  "current_v7.png": {
+    "captcha": "cuRrEnt",
+    "word": "current",
+    "font": "Courier New.ttf"
+  },
+  "current_v8.png": {
+    "captcha": "cURrEnt",
+    "word": "current",
+    "font": "Courier New.ttf"
+  },
+  "current_v9.png": {
+    "captcha": "TnErRuC",
+    "word": "current",
+    "font": "Courier New.ttf"
+  },
+  "more_v0.png": {
+    "captcha": "ERom",
+    "word": "more",
+    "font": "Arial.ttf"
+  },
+  "more_v1.png": {
+    "captcha": "erom",
+    "word": "more",
+    "font": "Times New Roman.ttf"
+  },
+  "more_v2.png": {
+    "captcha": "erom",
+    "word": "more",
+    "font": "Times New Roman.ttf"
+  },
+  "more_v3.png": {
+    "captcha": "MORe",
+    "word": "more",
+    "font": "Courier New.ttf"
+  },
+  "more_v4.png": {
+    "captcha": "ErOM",
+    "word": "more",
+    "font": "Times New Roman.ttf"
+  },
+  "more_v5.png": {
+    "captcha": "moRE",
+    "word": "more",
+    "font": "Courier New.ttf"
+  },
+  "more_v6.png": {
+    "captcha": "ErOM",
+    "word": "more",
+    "font": "Arial.ttf"
+  },
+  "more_v7.png": {
+    "captcha": "MORE",
+    "word": "more",
+    "font": "Times New Roman.ttf"
+  },
+  "more_v8.png": {
+    "captcha": "mOrE",
+    "word": "more",
+    "font": "Courier New.ttf"
+  },
+  "more_v9.png": {
+    "captcha": "mOrE",
+    "word": "more",
+    "font": "Courier New.ttf"
+  },
+  "couple_v0.png": {
+    "captcha": "CoUPle",
+    "word": "couple",
+    "font": "Courier New.ttf"
+  },
+  "couple_v1.png": {
+    "captcha": "ELPuoC",
+    "word": "couple",
+    "font": "Arial.ttf"
+  },
+  "couple_v2.png": {
+    "captcha": "elpUoc",
+    "word": "couple",
+    "font": "Courier New.ttf"
+  },
+  "couple_v3.png": {
+    "captcha": "coUplE",
+    "word": "couple",
+    "font": "Courier New.ttf"
+  },
+  "couple_v4.png": {
+    "captcha": "couplE",
+    "word": "couple",
+    "font": "Times New Roman.ttf"
+  },
+  "couple_v5.png": {
+    "captcha": "COuPlE",
+    "word": "couple",
+    "font": "Arial.ttf"
+  },
+  "couple_v6.png": {
+    "captcha": "eLpuOc",
+    "word": "couple",
+    "font": "Arial.ttf"
+  },
+  "couple_v7.png": {
+    "captcha": "cOuplE",
+    "word": "couple",
+    "font": "Times New Roman.ttf"
+  },
+  "couple_v8.png": {
+    "captcha": "COUPle",
+    "word": "couple",
+    "font": "Arial.ttf"
+  },
+  "couple_v9.png": {
+    "captcha": "ElpUOC",
+    "word": "couple",
+    "font": "Times New Roman.ttf"
+  },
+  "join_v0.png": {
+    "captcha": "jOIN",
+    "word": "join",
+    "font": "Courier New.ttf"
+  },
+  "join_v1.png": {
+    "captcha": "nIOj",
+    "word": "join",
+    "font": "Times New Roman.ttf"
+  },
+  "join_v2.png": {
+    "captcha": "jOIN",
+    "word": "join",
+    "font": "Arial.ttf"
+  },
+  "join_v3.png": {
+    "captcha": "nioJ",
+    "word": "join",
+    "font": "Times New Roman.ttf"
+  },
+  "join_v4.png": {
+    "captcha": "nIOj",
+    "word": "join",
+    "font": "Times New Roman.ttf"
+  },
+  "join_v5.png": {
+    "captcha": "NIoJ",
+    "word": "join",
+    "font": "Times New Roman.ttf"
+  },
+  "join_v6.png": {
+    "captcha": "JoiN",
+    "word": "join",
+    "font": "Courier New.ttf"
+  },
+  "join_v7.png": {
+    "captcha": "join",
+    "word": "join",
+    "font": "Courier New.ttf"
+  },
+  "join_v8.png": {
+    "captcha": "joIN",
+    "word": "join",
+    "font": "Times New Roman.ttf"
+  },
+  "join_v9.png": {
+    "captcha": "JOiN",
+    "word": "join",
+    "font": "Times New Roman.ttf"
+  },
+  "meeting_v0.png": {
+    "captcha": "gNiTEeM",
+    "word": "meeting",
+    "font": "Courier New.ttf"
+  },
+  "meeting_v1.png": {
+    "captcha": "gniTEeM",
+    "word": "meeting",
+    "font": "Times New Roman.ttf"
+  },
+  "meeting_v2.png": {
+    "captcha": "meeTinG",
+    "word": "meeting",
+    "font": "Times New Roman.ttf"
+  },
+  "meeting_v3.png": {
+    "captcha": "MEEtINg",
+    "word": "meeting",
+    "font": "Times New Roman.ttf"
+  },
+  "meeting_v4.png": {
+    "captcha": "GnIteem",
+    "word": "meeting",
+    "font": "Times New Roman.ttf"
+  },
+  "meeting_v5.png": {
+    "captcha": "MeetInG",
+    "word": "meeting",
+    "font": "Arial.ttf"
+  },
+  "meeting_v6.png": {
+    "captcha": "MeetiNG",
+    "word": "meeting",
+    "font": "Arial.ttf"
+  },
+  "meeting_v7.png": {
+    "captcha": "MEETIng",
+    "word": "meeting",
+    "font": "Courier New.ttf"
+  },
+  "meeting_v8.png": {
+    "captcha": "GnITeeM",
+    "word": "meeting",
+    "font": "Arial.ttf"
+  },
+  "meeting_v9.png": {
+    "captcha": "GNiTeEm",
+    "word": "meeting",
+    "font": "Arial.ttf"
+  },
+  "talk_v0.png": {
+    "captcha": "TaLk",
+    "word": "talk",
+    "font": "Courier New.ttf"
+  },
+  "talk_v1.png": {
+    "captcha": "KlAT",
+    "word": "talk",
+    "font": "Courier New.ttf"
+  },
+  "talk_v2.png": {
+    "captcha": "tALk",
+    "word": "talk",
+    "font": "Arial.ttf"
+  },
+  "talk_v3.png": {
+    "captcha": "TaLK",
+    "word": "talk",
+    "font": "Times New Roman.ttf"
+  },
+  "talk_v4.png": {
+    "captcha": "TALk",
+    "word": "talk",
+    "font": "Times New Roman.ttf"
+  },
+  "talk_v5.png": {
+    "captcha": "kLaT",
+    "word": "talk",
+    "font": "Arial.ttf"
+  },
+  "talk_v6.png": {
+    "captcha": "kLAT",
+    "word": "talk",
+    "font": "Courier New.ttf"
+  },
+  "talk_v7.png": {
+    "captcha": "klAT",
+    "word": "talk",
+    "font": "Times New Roman.ttf"
+  },
+  "talk_v8.png": {
+    "captcha": "tALk",
+    "word": "talk",
+    "font": "Courier New.ttf"
+  },
+  "talk_v9.png": {
+    "captcha": "TAlK",
+    "word": "talk",
+    "font": "Arial.ttf"
+  },
+  "control_v0.png": {
+    "captcha": "LOrtNoc",
+    "word": "control",
+    "font": "Times New Roman.ttf"
+  },
+  "control_v1.png": {
+    "captcha": "cONtroL",
+    "word": "control",
+    "font": "Courier New.ttf"
+  },
+  "control_v2.png": {
+    "captcha": "LORtnOc",
+    "word": "control",
+    "font": "Courier New.ttf"
+  },
+  "control_v3.png": {
+    "captcha": "ConTROl",
+    "word": "control",
+    "font": "Times New Roman.ttf"
+  },
+  "control_v4.png": {
+    "captcha": "lORTNOC",
+    "word": "control",
+    "font": "Arial.ttf"
+  },
+  "control_v5.png": {
+    "captcha": "lORTNoC",
+    "word": "control",
+    "font": "Times New Roman.ttf"
+  },
+  "control_v6.png": {
+    "captcha": "coNTROL",
+    "word": "control",
+    "font": "Courier New.ttf"
+  },
+  "control_v7.png": {
+    "captcha": "lortnoC",
+    "word": "control",
+    "font": "Courier New.ttf"
+  },
+  "control_v8.png": {
+    "captcha": "COnTROL",
+    "word": "control",
+    "font": "Times New Roman.ttf"
+  },
+  "control_v9.png": {
+    "captcha": "lORTnoc",
+    "word": "control",
+    "font": "Times New Roman.ttf"
+  },
+  "tend_v0.png": {
+    "captcha": "DNet",
+    "word": "tend",
+    "font": "Courier New.ttf"
+  },
+  "tend_v1.png": {
+    "captcha": "dnEt",
+    "word": "tend",
+    "font": "Arial.ttf"
+  },
+  "tend_v2.png": {
+    "captcha": "Dnet",
+    "word": "tend",
+    "font": "Courier New.ttf"
+  },
+  "tend_v3.png": {
+    "captcha": "DNeT",
+    "word": "tend",
+    "font": "Courier New.ttf"
+  },
+  "tend_v4.png": {
+    "captcha": "dNeT",
+    "word": "tend",
+    "font": "Courier New.ttf"
+  },
+  "tend_v5.png": {
+    "captcha": "TENd",
+    "word": "tend",
+    "font": "Courier New.ttf"
+  },
+  "tend_v6.png": {
+    "captcha": "DneT",
+    "word": "tend",
+    "font": "Times New Roman.ttf"
+  },
+  "tend_v7.png": {
+    "captcha": "Dnet",
+    "word": "tend",
+    "font": "Courier New.ttf"
+  },
+  "tend_v8.png": {
+    "captcha": "tEnd",
+    "word": "tend",
+    "font": "Courier New.ttf"
+  },
+  "tend_v9.png": {
+    "captcha": "DNEt",
+    "word": "tend",
+    "font": "Courier New.ttf"
+  },
+  "drug_v0.png": {
+    "captcha": "gUrD",
+    "word": "drug",
+    "font": "Arial.ttf"
+  },
+  "drug_v1.png": {
+    "captcha": "dRuG",
+    "word": "drug",
+    "font": "Courier New.ttf"
+  },
+  "drug_v2.png": {
+    "captcha": "GURD",
+    "word": "drug",
+    "font": "Arial.ttf"
+  },
+  "drug_v3.png": {
+    "captcha": "GUrd",
+    "word": "drug",
+    "font": "Courier New.ttf"
+  },
+  "drug_v4.png": {
+    "captcha": "dRUg",
+    "word": "drug",
+    "font": "Times New Roman.ttf"
+  },
+  "drug_v5.png": {
+    "captcha": "drUG",
+    "word": "drug",
+    "font": "Courier New.ttf"
+  },
+  "drug_v6.png": {
+    "captcha": "dRUG",
+    "word": "drug",
+    "font": "Times New Roman.ttf"
+  },
+  "drug_v7.png": {
+    "captcha": "GUrD",
+    "word": "drug",
+    "font": "Times New Roman.ttf"
+  },
+  "drug_v8.png": {
+    "captcha": "dRuG",
+    "word": "drug",
+    "font": "Courier New.ttf"
+  },
+  "drug_v9.png": {
+    "captcha": "guRd",
+    "word": "drug",
+    "font": "Courier New.ttf"
+  },
+  "center_v0.png": {
+    "captcha": "retNec",
+    "word": "center",
+    "font": "Arial.ttf"
+  },
+  "center_v1.png": {
+    "captcha": "cEnTer",
+    "word": "center",
+    "font": "Courier New.ttf"
+  },
+  "center_v2.png": {
+    "captcha": "CeNter",
+    "word": "center",
+    "font": "Times New Roman.ttf"
+  },
+  "center_v3.png": {
+    "captcha": "rEtNec",
+    "word": "center",
+    "font": "Courier New.ttf"
+  },
+  "center_v4.png": {
+    "captcha": "CENTeR",
+    "word": "center",
+    "font": "Times New Roman.ttf"
+  },
+  "center_v5.png": {
+    "captcha": "REtnEc",
+    "word": "center",
+    "font": "Courier New.ttf"
+  },
+  "center_v6.png": {
+    "captcha": "ceNTer",
+    "word": "center",
+    "font": "Arial.ttf"
+  },
+  "center_v7.png": {
+    "captcha": "ReTNEc",
+    "word": "center",
+    "font": "Times New Roman.ttf"
+  },
+  "center_v8.png": {
+    "captcha": "retneC",
+    "word": "center",
+    "font": "Times New Roman.ttf"
+  },
+  "center_v9.png": {
+    "captcha": "cEnteR",
+    "word": "center",
+    "font": "Courier New.ttf"
+  },
+  "bank_v0.png": {
+    "captcha": "KnAB",
+    "word": "bank",
+    "font": "Times New Roman.ttf"
+  },
+  "bank_v1.png": {
+    "captcha": "BaNk",
+    "word": "bank",
+    "font": "Arial.ttf"
+  },
+  "bank_v2.png": {
+    "captcha": "KNAb",
+    "word": "bank",
+    "font": "Courier New.ttf"
+  },
+  "bank_v3.png": {
+    "captcha": "Bank",
+    "word": "bank",
+    "font": "Arial.ttf"
+  },
+  "bank_v4.png": {
+    "captcha": "kNAB",
+    "word": "bank",
+    "font": "Courier New.ttf"
+  },
+  "bank_v5.png": {
+    "captcha": "BAnk",
+    "word": "bank",
+    "font": "Arial.ttf"
+  },
+  "bank_v6.png": {
+    "captcha": "bank",
+    "word": "bank",
+    "font": "Times New Roman.ttf"
+  },
+  "bank_v7.png": {
+    "captcha": "BaNk",
+    "word": "bank",
+    "font": "Times New Roman.ttf"
+  },
+  "bank_v8.png": {
+    "captcha": "BANK",
+    "word": "bank",
+    "font": "Courier New.ttf"
+  },
+  "bank_v9.png": {
+    "captcha": "knab",
+    "word": "bank",
+    "font": "Courier New.ttf"
+  },
+  "head_v0.png": {
+    "captcha": "hEAd",
+    "word": "head",
+    "font": "Courier New.ttf"
+  },
+  "head_v1.png": {
+    "captcha": "HeaD",
+    "word": "head",
+    "font": "Courier New.ttf"
+  },
+  "head_v2.png": {
+    "captcha": "DaEH",
+    "word": "head",
+    "font": "Arial.ttf"
+  },
+  "head_v3.png": {
+    "captcha": "dAEH",
+    "word": "head",
+    "font": "Courier New.ttf"
+  },
+  "head_v4.png": {
+    "captcha": "dAEH",
+    "word": "head",
+    "font": "Times New Roman.ttf"
+  },
+  "head_v5.png": {
+    "captcha": "daEH",
+    "word": "head",
+    "font": "Courier New.ttf"
+  },
+  "head_v6.png": {
+    "captcha": "HEaD",
+    "word": "head",
+    "font": "Times New Roman.ttf"
+  },
+  "head_v7.png": {
+    "captcha": "HeAd",
+    "word": "head",
+    "font": "Arial.ttf"
+  },
+  "head_v8.png": {
+    "captcha": "HeAd",
+    "word": "head",
+    "font": "Courier New.ttf"
+  },
+  "head_v9.png": {
+    "captcha": "dAeH",
+    "word": "head",
+    "font": "Times New Roman.ttf"
+  },
+  "continue_v0.png": {
+    "captcha": "contiNue",
+    "word": "continue",
+    "font": "Courier New.ttf"
+  },
+  "continue_v1.png": {
+    "captcha": "cONtInue",
+    "word": "continue",
+    "font": "Courier New.ttf"
+  },
+  "continue_v2.png": {
+    "captcha": "EuniTnOc",
+    "word": "continue",
+    "font": "Times New Roman.ttf"
+  },
+  "continue_v3.png": {
+    "captcha": "cOnTINue",
+    "word": "continue",
+    "font": "Times New Roman.ttf"
+  },
+  "continue_v4.png": {
+    "captcha": "EuniTnOC",
+    "word": "continue",
+    "font": "Courier New.ttf"
+  },
+  "continue_v5.png": {
+    "captcha": "EUnITnoc",
+    "word": "continue",
+    "font": "Times New Roman.ttf"
+  },
+  "continue_v6.png": {
+    "captcha": "eUNiTNOC",
+    "word": "continue",
+    "font": "Times New Roman.ttf"
+  },
+  "continue_v7.png": {
+    "captcha": "contiNUe",
+    "word": "continue",
+    "font": "Courier New.ttf"
+  },
+  "continue_v8.png": {
+    "captcha": "euNItnoc",
+    "word": "continue",
+    "font": "Courier New.ttf"
+  },
+  "continue_v9.png": {
+    "captcha": "CoNtinuE",
+    "word": "continue",
+    "font": "Courier New.ttf"
+  },
+  "fire_v0.png": {
+    "captcha": "erIF",
+    "word": "fire",
+    "font": "Courier New.ttf"
+  },
+  "fire_v1.png": {
+    "captcha": "fire",
+    "word": "fire",
+    "font": "Courier New.ttf"
+  },
+  "fire_v2.png": {
+    "captcha": "fiRE",
+    "word": "fire",
+    "font": "Arial.ttf"
+  },
+  "fire_v3.png": {
+    "captcha": "Fire",
+    "word": "fire",
+    "font": "Arial.ttf"
+  },
+  "fire_v4.png": {
+    "captcha": "eRif",
+    "word": "fire",
+    "font": "Arial.ttf"
+  },
+  "fire_v5.png": {
+    "captcha": "ERif",
+    "word": "fire",
+    "font": "Times New Roman.ttf"
+  },
+  "fire_v6.png": {
+    "captcha": "eRIF",
+    "word": "fire",
+    "font": "Times New Roman.ttf"
+  },
+  "fire_v7.png": {
+    "captcha": "EriF",
+    "word": "fire",
+    "font": "Courier New.ttf"
+  },
+  "fire_v8.png": {
+    "captcha": "ERIF",
+    "word": "fire",
+    "font": "Courier New.ttf"
+  },
+  "fire_v9.png": {
+    "captcha": "eRiF",
+    "word": "fire",
+    "font": "Arial.ttf"
+  },
+  "outside_v0.png": {
+    "captcha": "OUTside",
+    "word": "outside",
+    "font": "Arial.ttf"
+  },
+  "outside_v1.png": {
+    "captcha": "outSIDe",
+    "word": "outside",
+    "font": "Arial.ttf"
+  },
+  "outside_v2.png": {
+    "captcha": "EdiStuO",
+    "word": "outside",
+    "font": "Times New Roman.ttf"
+  },
+  "outside_v3.png": {
+    "captcha": "outsIDE",
+    "word": "outside",
+    "font": "Arial.ttf"
+  },
+  "outside_v4.png": {
+    "captcha": "edistUo",
+    "word": "outside",
+    "font": "Courier New.ttf"
+  },
+  "outside_v5.png": {
+    "captcha": "OutsIde",
+    "word": "outside",
+    "font": "Times New Roman.ttf"
+  },
+  "outside_v6.png": {
+    "captcha": "OUtSIde",
+    "word": "outside",
+    "font": "Times New Roman.ttf"
+  },
+  "outside_v7.png": {
+    "captcha": "OUTSidE",
+    "word": "outside",
+    "font": "Courier New.ttf"
+  },
+  "outside_v8.png": {
+    "captcha": "edIsTuo",
+    "word": "outside",
+    "font": "Times New Roman.ttf"
+  },
+  "outside_v9.png": {
+    "captcha": "oUtsiDe",
+    "word": "outside",
+    "font": "Courier New.ttf"
+  },
+  "stuff_v0.png": {
+    "captcha": "fFuTs",
+    "word": "stuff",
+    "font": "Times New Roman.ttf"
+  },
+  "stuff_v1.png": {
+    "captcha": "FFUtS",
+    "word": "stuff",
+    "font": "Arial.ttf"
+  },
+  "stuff_v2.png": {
+    "captcha": "FFuTS",
+    "word": "stuff",
+    "font": "Courier New.ttf"
+  },
+  "stuff_v3.png": {
+    "captcha": "STuFf",
+    "word": "stuff",
+    "font": "Times New Roman.ttf"
+  },
+  "stuff_v4.png": {
+    "captcha": "Ffuts",
+    "word": "stuff",
+    "font": "Times New Roman.ttf"
+  },
+  "stuff_v5.png": {
+    "captcha": "stuFF",
+    "word": "stuff",
+    "font": "Arial.ttf"
+  },
+  "stuff_v6.png": {
+    "captcha": "STuff",
+    "word": "stuff",
+    "font": "Times New Roman.ttf"
+  },
+  "stuff_v7.png": {
+    "captcha": "FFuTs",
+    "word": "stuff",
+    "font": "Arial.ttf"
+  },
+  "stuff_v8.png": {
+    "captcha": "FFuTs",
+    "word": "stuff",
+    "font": "Times New Roman.ttf"
+  },
+  "stuff_v9.png": {
+    "captcha": "fFUTs",
+    "word": "stuff",
+    "font": "Arial.ttf"
+  },
+  "case_v0.png": {
+    "captcha": "ESAc",
+    "word": "case",
+    "font": "Arial.ttf"
+  },
+  "case_v1.png": {
+    "captcha": "eSAc",
+    "word": "case",
+    "font": "Times New Roman.ttf"
+  },
+  "case_v2.png": {
+    "captcha": "eSAC",
+    "word": "case",
+    "font": "Courier New.ttf"
+  },
+  "case_v3.png": {
+    "captcha": "CASE",
+    "word": "case",
+    "font": "Courier New.ttf"
+  },
+  "case_v4.png": {
+    "captcha": "caSe",
+    "word": "case",
+    "font": "Arial.ttf"
+  },
+  "case_v5.png": {
+    "captcha": "caSe",
+    "word": "case",
+    "font": "Arial.ttf"
+  },
+  "case_v6.png": {
+    "captcha": "Esac",
+    "word": "case",
+    "font": "Courier New.ttf"
+  },
+  "case_v7.png": {
+    "captcha": "esAC",
+    "word": "case",
+    "font": "Arial.ttf"
+  },
+  "case_v8.png": {
+    "captcha": "eSac",
+    "word": "case",
+    "font": "Times New Roman.ttf"
+  },
+  "case_v9.png": {
+    "captcha": "esac",
+    "word": "case",
+    "font": "Arial.ttf"
+  },
+  "fine_v0.png": {
+    "captcha": "fIne",
+    "word": "fine",
+    "font": "Times New Roman.ttf"
+  },
+  "fine_v1.png": {
+    "captcha": "fiNe",
+    "word": "fine",
+    "font": "Times New Roman.ttf"
+  },
+  "fine_v2.png": {
+    "captcha": "eniF",
+    "word": "fine",
+    "font": "Courier New.ttf"
+  },
+  "fine_v3.png": {
+    "captcha": "EnIF",
+    "word": "fine",
+    "font": "Times New Roman.ttf"
+  },
+  "fine_v4.png": {
+    "captcha": "Fine",
+    "word": "fine",
+    "font": "Times New Roman.ttf"
+  },
+  "fine_v5.png": {
+    "captcha": "ENIF",
+    "word": "fine",
+    "font": "Courier New.ttf"
+  },
+  "fine_v6.png": {
+    "captcha": "eNiF",
+    "word": "fine",
+    "font": "Times New Roman.ttf"
+  },
+  "fine_v7.png": {
+    "captcha": "FinE",
+    "word": "fine",
+    "font": "Arial.ttf"
+  },
+  "fine_v8.png": {
+    "captcha": "ENiF",
+    "word": "fine",
+    "font": "Courier New.ttf"
+  },
+  "fine_v9.png": {
+    "captcha": "ENIF",
+    "word": "fine",
+    "font": "Times New Roman.ttf"
+  },
+  "also_v0.png": {
+    "captcha": "alSO",
+    "word": "also",
+    "font": "Times New Roman.ttf"
+  },
+  "also_v1.png": {
+    "captcha": "aLsO",
+    "word": "also",
+    "font": "Times New Roman.ttf"
+  },
+  "also_v2.png": {
+    "captcha": "AlSo",
+    "word": "also",
+    "font": "Arial.ttf"
+  },
+  "also_v3.png": {
+    "captcha": "aLSo",
+    "word": "also",
+    "font": "Arial.ttf"
+  },
+  "also_v4.png": {
+    "captcha": "aLSo",
+    "word": "also",
+    "font": "Times New Roman.ttf"
+  },
+  "also_v5.png": {
+    "captcha": "osLa",
+    "word": "also",
+    "font": "Courier New.ttf"
+  },
+  "also_v6.png": {
+    "captcha": "AlsO",
+    "word": "also",
+    "font": "Times New Roman.ttf"
+  },
+  "also_v7.png": {
+    "captcha": "alsO",
+    "word": "also",
+    "font": "Times New Roman.ttf"
+  },
+  "also_v8.png": {
+    "captcha": "aLSO",
+    "word": "also",
+    "font": "Times New Roman.ttf"
+  },
+  "also_v9.png": {
+    "captcha": "oSla",
+    "word": "also",
+    "font": "Arial.ttf"
+  },
+  "medical_v0.png": {
+    "captcha": "MEdiCaL",
+    "word": "medical",
+    "font": "Arial.ttf"
+  },
+  "medical_v1.png": {
+    "captcha": "lAcIDeM",
+    "word": "medical",
+    "font": "Times New Roman.ttf"
+  },
+  "medical_v2.png": {
+    "captcha": "lAciDem",
+    "word": "medical",
+    "font": "Times New Roman.ttf"
+  },
+  "medical_v3.png": {
+    "captcha": "MeDIcAL",
+    "word": "medical",
+    "font": "Arial.ttf"
+  },
+  "medical_v4.png": {
+    "captcha": "LACiDeM",
+    "word": "medical",
+    "font": "Times New Roman.ttf"
+  },
+  "medical_v5.png": {
+    "captcha": "meDIcAl",
+    "word": "medical",
+    "font": "Arial.ttf"
+  },
+  "medical_v6.png": {
+    "captcha": "LACIdEM",
+    "word": "medical",
+    "font": "Times New Roman.ttf"
+  },
+  "medical_v7.png": {
+    "captcha": "laciDeM",
+    "word": "medical",
+    "font": "Arial.ttf"
+  },
+  "medical_v8.png": {
+    "captcha": "lacidem",
+    "word": "medical",
+    "font": "Courier New.ttf"
+  },
+  "medical_v9.png": {
+    "captcha": "MeDiCal",
+    "word": "medical",
+    "font": "Courier New.ttf"
+  },
+  "shoulder_v0.png": {
+    "captcha": "ReDLuOhs",
+    "word": "shoulder",
+    "font": "Arial.ttf"
+  },
+  "shoulder_v1.png": {
+    "captcha": "REDlUOHs",
+    "word": "shoulder",
+    "font": "Arial.ttf"
+  },
+  "shoulder_v2.png": {
+    "captcha": "REDluOhS",
+    "word": "shoulder",
+    "font": "Courier New.ttf"
+  },
+  "shoulder_v3.png": {
+    "captcha": "REDlUOHs",
+    "word": "shoulder",
+    "font": "Arial.ttf"
+  },
+  "shoulder_v4.png": {
+    "captcha": "sHOULDER",
+    "word": "shoulder",
+    "font": "Arial.ttf"
+  },
+  "shoulder_v5.png": {
+    "captcha": "reDluOhs",
+    "word": "shoulder",
+    "font": "Arial.ttf"
+  },
+  "shoulder_v6.png": {
+    "captcha": "SHOUlder",
+    "word": "shoulder",
+    "font": "Courier New.ttf"
+  },
+  "shoulder_v7.png": {
+    "captcha": "ReDLuoHs",
+    "word": "shoulder",
+    "font": "Arial.ttf"
+  },
+  "shoulder_v8.png": {
+    "captcha": "ShoUlDER",
+    "word": "shoulder",
+    "font": "Times New Roman.ttf"
+  },
+  "shoulder_v9.png": {
+    "captcha": "RedLuOhS",
+    "word": "shoulder",
+    "font": "Times New Roman.ttf"
+  },
+  "report_v0.png": {
+    "captcha": "TrOpEr",
+    "word": "report",
+    "font": "Arial.ttf"
+  },
+  "report_v1.png": {
+    "captcha": "rEPOrT",
+    "word": "report",
+    "font": "Courier New.ttf"
+  },
+  "report_v2.png": {
+    "captcha": "TROpeR",
+    "word": "report",
+    "font": "Times New Roman.ttf"
+  },
+  "report_v3.png": {
+    "captcha": "repoRT",
+    "word": "report",
+    "font": "Arial.ttf"
+  },
+  "report_v4.png": {
+    "captcha": "TROPEr",
+    "word": "report",
+    "font": "Arial.ttf"
+  },
+  "report_v5.png": {
+    "captcha": "tRopeR",
+    "word": "report",
+    "font": "Arial.ttf"
+  },
+  "report_v6.png": {
+    "captcha": "TroPeR",
+    "word": "report",
+    "font": "Times New Roman.ttf"
+  },
+  "report_v7.png": {
+    "captcha": "tropEr",
+    "word": "report",
+    "font": "Courier New.ttf"
+  },
+  "report_v8.png": {
+    "captcha": "report",
+    "word": "report",
+    "font": "Arial.ttf"
+  },
+  "report_v9.png": {
+    "captcha": "REpOrt",
+    "word": "report",
+    "font": "Times New Roman.ttf"
+  },
+  "prevent_v0.png": {
+    "captcha": "tNeverP",
+    "word": "prevent",
+    "font": "Courier New.ttf"
+  },
+  "prevent_v1.png": {
+    "captcha": "pREVENT",
+    "word": "prevent",
+    "font": "Arial.ttf"
+  },
+  "prevent_v2.png": {
+    "captcha": "TneVerP",
+    "word": "prevent",
+    "font": "Arial.ttf"
+  },
+  "prevent_v3.png": {
+    "captcha": "tnEVerP",
+    "word": "prevent",
+    "font": "Courier New.ttf"
+  },
+  "prevent_v4.png": {
+    "captcha": "TnEvErP",
+    "word": "prevent",
+    "font": "Times New Roman.ttf"
+  },
+  "prevent_v5.png": {
+    "captcha": "PREVenT",
+    "word": "prevent",
+    "font": "Times New Roman.ttf"
+  },
+  "prevent_v6.png": {
+    "captcha": "prevenT",
+    "word": "prevent",
+    "font": "Arial.ttf"
+  },
+  "prevent_v7.png": {
+    "captcha": "TNEvERp",
+    "word": "prevent",
+    "font": "Times New Roman.ttf"
+  },
+  "prevent_v8.png": {
+    "captcha": "tnEVeRp",
+    "word": "prevent",
+    "font": "Arial.ttf"
+  },
+  "prevent_v9.png": {
+    "captcha": "tnevERp",
+    "word": "prevent",
+    "font": "Times New Roman.ttf"
+  },
+  "present_v0.png": {
+    "captcha": "prESenT",
+    "word": "present",
+    "font": "Times New Roman.ttf"
+  },
+  "present_v1.png": {
+    "captcha": "pRESENt",
+    "word": "present",
+    "font": "Times New Roman.ttf"
+  },
+  "present_v2.png": {
+    "captcha": "TNeSERP",
+    "word": "present",
+    "font": "Times New Roman.ttf"
+  },
+  "present_v3.png": {
+    "captcha": "TnESErP",
+    "word": "present",
+    "font": "Arial.ttf"
+  },
+  "present_v4.png": {
+    "captcha": "PRESEnt",
+    "word": "present",
+    "font": "Courier New.ttf"
+  },
+  "present_v5.png": {
+    "captcha": "pRESENT",
+    "word": "present",
+    "font": "Times New Roman.ttf"
+  },
+  "present_v6.png": {
+    "captcha": "TneseRP",
+    "word": "present",
+    "font": "Times New Roman.ttf"
+  },
+  "present_v7.png": {
+    "captcha": "tNeserP",
+    "word": "present",
+    "font": "Times New Roman.ttf"
+  },
+  "present_v8.png": {
+    "captcha": "PReSENT",
+    "word": "present",
+    "font": "Times New Roman.ttf"
+  },
+  "present_v9.png": {
+    "captcha": "pRESENt",
+    "word": "present",
+    "font": "Arial.ttf"
+  },
+  "toward_v0.png": {
+    "captcha": "DrawOT",
+    "word": "toward",
+    "font": "Courier New.ttf"
+  },
+  "toward_v1.png": {
+    "captcha": "dRAwot",
+    "word": "toward",
+    "font": "Times New Roman.ttf"
+  },
+  "toward_v2.png": {
+    "captcha": "drawoT",
+    "word": "toward",
+    "font": "Courier New.ttf"
+  },
+  "toward_v3.png": {
+    "captcha": "DrAWOt",
+    "word": "toward",
+    "font": "Arial.ttf"
+  },
+  "toward_v4.png": {
+    "captcha": "DRAwOt",
+    "word": "toward",
+    "font": "Arial.ttf"
+  },
+  "toward_v5.png": {
+    "captcha": "towaRd",
+    "word": "toward",
+    "font": "Times New Roman.ttf"
+  },
+  "toward_v6.png": {
+    "captcha": "ToWaRd",
+    "word": "toward",
+    "font": "Times New Roman.ttf"
+  },
+  "toward_v7.png": {
+    "captcha": "DraWoT",
+    "word": "toward",
+    "font": "Arial.ttf"
+  },
+  "toward_v8.png": {
+    "captcha": "dRaWOt",
+    "word": "toward",
+    "font": "Times New Roman.ttf"
+  },
+  "toward_v9.png": {
+    "captcha": "drAwoT",
+    "word": "toward",
+    "font": "Arial.ttf"
+  },
+  "child_v0.png": {
+    "captcha": "cHiLD",
+    "word": "child",
+    "font": "Arial.ttf"
+  },
+  "child_v1.png": {
+    "captcha": "cHild",
+    "word": "child",
+    "font": "Times New Roman.ttf"
+  },
+  "child_v2.png": {
+    "captcha": "dLiHC",
+    "word": "child",
+    "font": "Times New Roman.ttf"
+  },
+  "child_v3.png": {
+    "captcha": "Dlihc",
+    "word": "child",
+    "font": "Times New Roman.ttf"
+  },
+  "child_v4.png": {
+    "captcha": "dLIhC",
+    "word": "child",
+    "font": "Times New Roman.ttf"
+  },
+  "child_v5.png": {
+    "captcha": "CHIld",
+    "word": "child",
+    "font": "Arial.ttf"
+  },
+  "child_v6.png": {
+    "captcha": "dlIHC",
+    "word": "child",
+    "font": "Times New Roman.ttf"
+  },
+  "child_v7.png": {
+    "captcha": "DlIHc",
+    "word": "child",
+    "font": "Courier New.ttf"
+  },
+  "child_v8.png": {
+    "captcha": "DLIhc",
+    "word": "child",
+    "font": "Times New Roman.ttf"
+  },
+  "child_v9.png": {
+    "captcha": "dlIhc",
+    "word": "child",
+    "font": "Times New Roman.ttf"
+  },
+  "deal_v0.png": {
+    "captcha": "DeAL",
+    "word": "deal",
+    "font": "Arial.ttf"
+  },
+  "deal_v1.png": {
+    "captcha": "DeAl",
+    "word": "deal",
+    "font": "Courier New.ttf"
+  },
+  "deal_v2.png": {
+    "captcha": "DeAl",
+    "word": "deal",
+    "font": "Courier New.ttf"
+  },
+  "deal_v3.png": {
+    "captcha": "DEal",
+    "word": "deal",
+    "font": "Arial.ttf"
+  },
+  "deal_v4.png": {
+    "captcha": "Deal",
+    "word": "deal",
+    "font": "Times New Roman.ttf"
+  },
+  "deal_v5.png": {
+    "captcha": "LAEd",
+    "word": "deal",
+    "font": "Times New Roman.ttf"
+  },
+  "deal_v6.png": {
+    "captcha": "deal",
+    "word": "deal",
+    "font": "Courier New.ttf"
+  },
+  "deal_v7.png": {
+    "captcha": "DEal",
+    "word": "deal",
+    "font": "Times New Roman.ttf"
+  },
+  "deal_v8.png": {
+    "captcha": "lAED",
+    "word": "deal",
+    "font": "Courier New.ttf"
+  },
+  "deal_v9.png": {
+    "captcha": "dEAL",
+    "word": "deal",
+    "font": "Arial.ttf"
+  },
+  "painting_v0.png": {
+    "captcha": "gnItnIAp",
+    "word": "painting",
+    "font": "Times New Roman.ttf"
+  },
+  "painting_v1.png": {
+    "captcha": "GNiTnIaP",
+    "word": "painting",
+    "font": "Arial.ttf"
+  },
+  "painting_v2.png": {
+    "captcha": "GnItniAP",
+    "word": "painting",
+    "font": "Arial.ttf"
+  },
+  "painting_v3.png": {
+    "captcha": "pAiNTINg",
+    "word": "painting",
+    "font": "Arial.ttf"
+  },
+  "painting_v4.png": {
+    "captcha": "GNiTNIaP",
+    "word": "painting",
+    "font": "Times New Roman.ttf"
+  },
+  "painting_v5.png": {
+    "captcha": "GNiTNIAP",
+    "word": "painting",
+    "font": "Courier New.ttf"
+  },
+  "painting_v6.png": {
+    "captcha": "paiNtinG",
+    "word": "painting",
+    "font": "Arial.ttf"
+  },
+  "painting_v7.png": {
+    "captcha": "GNITniAP",
+    "word": "painting",
+    "font": "Courier New.ttf"
+  },
+  "painting_v8.png": {
+    "captcha": "GniTniAp",
+    "word": "painting",
+    "font": "Courier New.ttf"
+  },
+  "painting_v9.png": {
+    "captcha": "pAInTing",
+    "word": "painting",
+    "font": "Times New Roman.ttf"
+  },
+  "accept_v0.png": {
+    "captcha": "ACcept",
+    "word": "accept",
+    "font": "Courier New.ttf"
+  },
+  "accept_v1.png": {
+    "captcha": "aCcEPt",
+    "word": "accept",
+    "font": "Times New Roman.ttf"
+  },
+  "accept_v2.png": {
+    "captcha": "ACCEPt",
+    "word": "accept",
+    "font": "Courier New.ttf"
+  },
+  "accept_v3.png": {
+    "captcha": "AccePt",
+    "word": "accept",
+    "font": "Arial.ttf"
+  },
+  "accept_v4.png": {
+    "captcha": "TPEccA",
+    "word": "accept",
+    "font": "Courier New.ttf"
+  },
+  "accept_v5.png": {
+    "captcha": "AcCEpt",
+    "word": "accept",
+    "font": "Arial.ttf"
+  },
+  "accept_v6.png": {
+    "captcha": "TpecCA",
+    "word": "accept",
+    "font": "Arial.ttf"
+  },
+  "accept_v7.png": {
+    "captcha": "TpeCcA",
+    "word": "accept",
+    "font": "Courier New.ttf"
+  },
+  "accept_v8.png": {
+    "captcha": "tPEcCA",
+    "word": "accept",
+    "font": "Arial.ttf"
+  },
+  "accept_v9.png": {
+    "captcha": "tpECcA",
+    "word": "accept",
+    "font": "Courier New.ttf"
+  },
+  "degree_v0.png": {
+    "captcha": "EERGed",
+    "word": "degree",
+    "font": "Times New Roman.ttf"
+  },
+  "degree_v1.png": {
+    "captcha": "eerGed",
+    "word": "degree",
+    "font": "Arial.ttf"
+  },
+  "degree_v2.png": {
+    "captcha": "DegreE",
+    "word": "degree",
+    "font": "Arial.ttf"
+  },
+  "degree_v3.png": {
+    "captcha": "EeRGed",
+    "word": "degree",
+    "font": "Courier New.ttf"
+  },
+  "degree_v4.png": {
+    "captcha": "EeRgEd",
+    "word": "degree",
+    "font": "Arial.ttf"
+  },
+  "degree_v5.png": {
+    "captcha": "dEgrEe",
+    "word": "degree",
+    "font": "Courier New.ttf"
+  },
+  "degree_v6.png": {
+    "captcha": "deGRee",
+    "word": "degree",
+    "font": "Arial.ttf"
+  },
+  "degree_v7.png": {
+    "captcha": "EergeD",
+    "word": "degree",
+    "font": "Arial.ttf"
+  },
+  "degree_v8.png": {
+    "captcha": "degrEe",
+    "word": "degree",
+    "font": "Arial.ttf"
+  },
+  "degree_v9.png": {
+    "captcha": "DeGrEe",
+    "word": "degree",
+    "font": "Arial.ttf"
+  },
+  "follow_v0.png": {
+    "captcha": "foLloW",
+    "word": "follow",
+    "font": "Arial.ttf"
+  },
+  "follow_v1.png": {
+    "captcha": "foLLOW",
+    "word": "follow",
+    "font": "Courier New.ttf"
+  },
+  "follow_v2.png": {
+    "captcha": "WOLlof",
+    "word": "follow",
+    "font": "Arial.ttf"
+  },
+  "follow_v3.png": {
+    "captcha": "wollOf",
+    "word": "follow",
+    "font": "Arial.ttf"
+  },
+  "follow_v4.png": {
+    "captcha": "fOLLOw",
+    "word": "follow",
+    "font": "Courier New.ttf"
+  },
+  "follow_v5.png": {
+    "captcha": "FOLlOw",
+    "word": "follow",
+    "font": "Times New Roman.ttf"
+  },
+  "follow_v6.png": {
+    "captcha": "wOlLOF",
+    "word": "follow",
+    "font": "Arial.ttf"
+  },
+  "follow_v7.png": {
+    "captcha": "foLlow",
+    "word": "follow",
+    "font": "Arial.ttf"
+  },
+  "follow_v8.png": {
+    "captcha": "Follow",
+    "word": "follow",
+    "font": "Courier New.ttf"
+  },
+  "follow_v9.png": {
+    "captcha": "WOLLOF",
+    "word": "follow",
+    "font": "Courier New.ttf"
+  },
+  "whom_v0.png": {
+    "captcha": "whOM",
+    "word": "whom",
+    "font": "Times New Roman.ttf"
+  },
+  "whom_v1.png": {
+    "captcha": "MOhW",
+    "word": "whom",
+    "font": "Arial.ttf"
+  },
+  "whom_v2.png": {
+    "captcha": "MOHW",
+    "word": "whom",
+    "font": "Courier New.ttf"
+  },
+  "whom_v3.png": {
+    "captcha": "MoHw",
+    "word": "whom",
+    "font": "Courier New.ttf"
+  },
+  "whom_v4.png": {
+    "captcha": "whOm",
+    "word": "whom",
+    "font": "Courier New.ttf"
+  },
+  "whom_v5.png": {
+    "captcha": "MOHW",
+    "word": "whom",
+    "font": "Times New Roman.ttf"
+  },
+  "whom_v6.png": {
+    "captcha": "MohW",
+    "word": "whom",
+    "font": "Courier New.ttf"
+  },
+  "whom_v7.png": {
+    "captcha": "wHom",
+    "word": "whom",
+    "font": "Courier New.ttf"
+  },
+  "whom_v8.png": {
+    "captcha": "mOhw",
+    "word": "whom",
+    "font": "Courier New.ttf"
+  },
+  "whom_v9.png": {
+    "captcha": "WHOm",
+    "word": "whom",
+    "font": "Courier New.ttf"
+  },
+  "blue_v0.png": {
+    "captcha": "eULB",
+    "word": "blue",
+    "font": "Times New Roman.ttf"
+  },
+  "blue_v1.png": {
+    "captcha": "BLue",
+    "word": "blue",
+    "font": "Courier New.ttf"
+  },
+  "blue_v2.png": {
+    "captcha": "BluE",
+    "word": "blue",
+    "font": "Courier New.ttf"
+  },
+  "blue_v3.png": {
+    "captcha": "BLue",
+    "word": "blue",
+    "font": "Arial.ttf"
+  },
+  "blue_v4.png": {
+    "captcha": "eUlb",
+    "word": "blue",
+    "font": "Times New Roman.ttf"
+  },
+  "blue_v5.png": {
+    "captcha": "bLUe",
+    "word": "blue",
+    "font": "Arial.ttf"
+  },
+  "blue_v6.png": {
+    "captcha": "BLue",
+    "word": "blue",
+    "font": "Arial.ttf"
+  },
+  "blue_v7.png": {
+    "captcha": "bLUE",
+    "word": "blue",
+    "font": "Arial.ttf"
+  },
+  "blue_v8.png": {
+    "captcha": "Blue",
+    "word": "blue",
+    "font": "Times New Roman.ttf"
+  },
+  "blue_v9.png": {
+    "captcha": "eUlB",
+    "word": "blue",
+    "font": "Times New Roman.ttf"
+  },
+  "both_v0.png": {
+    "captcha": "BOTH",
+    "word": "both",
+    "font": "Times New Roman.ttf"
+  },
+  "both_v1.png": {
+    "captcha": "HtOB",
+    "word": "both",
+    "font": "Courier New.ttf"
+  },
+  "both_v2.png": {
+    "captcha": "bOtH",
+    "word": "both",
+    "font": "Courier New.ttf"
+  },
+  "both_v3.png": {
+    "captcha": "both",
+    "word": "both",
+    "font": "Arial.ttf"
+  },
+  "both_v4.png": {
+    "captcha": "hToB",
+    "word": "both",
+    "font": "Courier New.ttf"
+  },
+  "both_v5.png": {
+    "captcha": "Both",
+    "word": "both",
+    "font": "Times New Roman.ttf"
+  },
+  "both_v6.png": {
+    "captcha": "hToB",
+    "word": "both",
+    "font": "Times New Roman.ttf"
+  },
+  "both_v7.png": {
+    "captcha": "HtoB",
+    "word": "both",
+    "font": "Courier New.ttf"
+  },
+  "both_v8.png": {
+    "captcha": "botH",
+    "word": "both",
+    "font": "Arial.ttf"
+  },
+  "both_v9.png": {
+    "captcha": "botH",
+    "word": "both",
+    "font": "Arial.ttf"
+  },
+  "black_v0.png": {
+    "captcha": "KcAlB",
+    "word": "black",
+    "font": "Times New Roman.ttf"
+  },
+  "black_v1.png": {
+    "captcha": "KcALb",
+    "word": "black",
+    "font": "Times New Roman.ttf"
+  },
+  "black_v2.png": {
+    "captcha": "bLACk",
+    "word": "black",
+    "font": "Courier New.ttf"
+  },
+  "black_v3.png": {
+    "captcha": "kcalb",
+    "word": "black",
+    "font": "Times New Roman.ttf"
+  },
+  "black_v4.png": {
+    "captcha": "kCALb",
+    "word": "black",
+    "font": "Times New Roman.ttf"
+  },
+  "black_v5.png": {
+    "captcha": "BlAcK",
+    "word": "black",
+    "font": "Times New Roman.ttf"
+  },
+  "black_v6.png": {
+    "captcha": "kCALB",
+    "word": "black",
+    "font": "Courier New.ttf"
+  },
+  "black_v7.png": {
+    "captcha": "BLACk",
+    "word": "black",
+    "font": "Times New Roman.ttf"
+  },
+  "black_v8.png": {
+    "captcha": "BlaCK",
+    "word": "black",
+    "font": "Times New Roman.ttf"
+  },
+  "black_v9.png": {
+    "captcha": "kcALB",
+    "word": "black",
+    "font": "Courier New.ttf"
+  },
+  "remember_v0.png": {
+    "captcha": "ReMEMbEr",
+    "word": "remember",
+    "font": "Times New Roman.ttf"
+  },
+  "remember_v1.png": {
+    "captcha": "RemEMbER",
+    "word": "remember",
+    "font": "Times New Roman.ttf"
+  },
+  "remember_v2.png": {
+    "captcha": "reBmEMER",
+    "word": "remember",
+    "font": "Arial.ttf"
+  },
+  "remember_v3.png": {
+    "captcha": "ReBMemer",
+    "word": "remember",
+    "font": "Arial.ttf"
+  },
+  "remember_v4.png": {
+    "captcha": "rEBMEmER",
+    "word": "remember",
+    "font": "Times New Roman.ttf"
+  },
+  "remember_v5.png": {
+    "captcha": "rebMemeR",
+    "word": "remember",
+    "font": "Arial.ttf"
+  },
+  "remember_v6.png": {
+    "captcha": "rEbmEMEr",
+    "word": "remember",
+    "font": "Arial.ttf"
+  },
+  "remember_v7.png": {
+    "captcha": "reBmEMer",
+    "word": "remember",
+    "font": "Times New Roman.ttf"
+  },
+  "remember_v8.png": {
+    "captcha": "reMeMBEr",
+    "word": "remember",
+    "font": "Times New Roman.ttf"
+  },
+  "remember_v9.png": {
+    "captcha": "REMembEr",
+    "word": "remember",
+    "font": "Courier New.ttf"
+  },
+  "source_v0.png": {
+    "captcha": "eCRuOS",
+    "word": "source",
+    "font": "Arial.ttf"
+  },
+  "source_v1.png": {
+    "captcha": "SourcE",
+    "word": "source",
+    "font": "Times New Roman.ttf"
+  },
+  "source_v2.png": {
+    "captcha": "ecruos",
+    "word": "source",
+    "font": "Times New Roman.ttf"
+  },
+  "source_v3.png": {
+    "captcha": "sourcE",
+    "word": "source",
+    "font": "Arial.ttf"
+  },
+  "source_v4.png": {
+    "captcha": "ECrUos",
+    "word": "source",
+    "font": "Courier New.ttf"
+  },
+  "source_v5.png": {
+    "captcha": "sOURCe",
+    "word": "source",
+    "font": "Arial.ttf"
+  },
+  "source_v6.png": {
+    "captcha": "ECRUos",
+    "word": "source",
+    "font": "Arial.ttf"
+  },
+  "source_v7.png": {
+    "captcha": "SourcE",
+    "word": "source",
+    "font": "Courier New.ttf"
+  },
+  "source_v8.png": {
+    "captcha": "ECRUOS",
+    "word": "source",
+    "font": "Arial.ttf"
+  },
+  "source_v9.png": {
+    "captcha": "EcruoS",
+    "word": "source",
+    "font": "Arial.ttf"
+  },
+  "school_v0.png": {
+    "captcha": "ScHoOl",
+    "word": "school",
+    "font": "Arial.ttf"
+  },
+  "school_v1.png": {
+    "captcha": "LOohCS",
+    "word": "school",
+    "font": "Times New Roman.ttf"
+  },
+  "school_v2.png": {
+    "captcha": "lOoHcS",
+    "word": "school",
+    "font": "Arial.ttf"
+  },
+  "school_v3.png": {
+    "captcha": "SChOOL",
+    "word": "school",
+    "font": "Arial.ttf"
+  },
+  "school_v4.png": {
+    "captcha": "lOohcS",
+    "word": "school",
+    "font": "Arial.ttf"
+  },
+  "school_v5.png": {
+    "captcha": "loohcs",
+    "word": "school",
+    "font": "Times New Roman.ttf"
+  },
+  "school_v6.png": {
+    "captcha": "loOhCs",
+    "word": "school",
+    "font": "Times New Roman.ttf"
+  },
+  "school_v7.png": {
+    "captcha": "LOoHCs",
+    "word": "school",
+    "font": "Courier New.ttf"
+  },
+  "school_v8.png": {
+    "captcha": "lOoHcs",
+    "word": "school",
+    "font": "Courier New.ttf"
+  },
+  "school_v9.png": {
+    "captcha": "scHOoL",
+    "word": "school",
+    "font": "Times New Roman.ttf"
+  },
+  "form_v0.png": {
+    "captcha": "mrOF",
+    "word": "form",
+    "font": "Arial.ttf"
+  },
+  "form_v1.png": {
+    "captcha": "FoRm",
+    "word": "form",
+    "font": "Times New Roman.ttf"
+  },
+  "form_v2.png": {
+    "captcha": "FOrm",
+    "word": "form",
+    "font": "Arial.ttf"
+  },
+  "form_v3.png": {
+    "captcha": "form",
+    "word": "form",
+    "font": "Arial.ttf"
+  },
+  "form_v4.png": {
+    "captcha": "MRoF",
+    "word": "form",
+    "font": "Arial.ttf"
+  },
+  "form_v5.png": {
+    "captcha": "MroF",
+    "word": "form",
+    "font": "Courier New.ttf"
+  },
+  "form_v6.png": {
+    "captcha": "FoRm",
+    "word": "form",
+    "font": "Courier New.ttf"
+  },
+  "form_v7.png": {
+    "captcha": "mRoF",
+    "word": "form",
+    "font": "Courier New.ttf"
+  },
+  "form_v8.png": {
+    "captcha": "mROf",
+    "word": "form",
+    "font": "Courier New.ttf"
+  },
+  "form_v9.png": {
+    "captcha": "MrOF",
+    "word": "form",
+    "font": "Courier New.ttf"
+  },
+  "quite_v0.png": {
+    "captcha": "etiUq",
+    "word": "quite",
+    "font": "Arial.ttf"
+  },
+  "quite_v1.png": {
+    "captcha": "qUITe",
+    "word": "quite",
+    "font": "Courier New.ttf"
+  },
+  "quite_v2.png": {
+    "captcha": "qUITE",
+    "word": "quite",
+    "font": "Courier New.ttf"
+  },
+  "quite_v3.png": {
+    "captcha": "QUITe",
+    "word": "quite",
+    "font": "Courier New.ttf"
+  },
+  "quite_v4.png": {
+    "captcha": "QUItE",
+    "word": "quite",
+    "font": "Times New Roman.ttf"
+  },
+  "quite_v5.png": {
+    "captcha": "EtIuq",
+    "word": "quite",
+    "font": "Arial.ttf"
+  },
+  "quite_v6.png": {
+    "captcha": "qUite",
+    "word": "quite",
+    "font": "Arial.ttf"
+  },
+  "quite_v7.png": {
+    "captcha": "EtIUQ",
+    "word": "quite",
+    "font": "Courier New.ttf"
+  },
+  "quite_v8.png": {
+    "captcha": "QuITE",
+    "word": "quite",
+    "font": "Courier New.ttf"
+  },
+  "quite_v9.png": {
+    "captcha": "QuITe",
+    "word": "quite",
+    "font": "Arial.ttf"
+  },
+  "type_v0.png": {
+    "captcha": "Epyt",
+    "word": "type",
+    "font": "Courier New.ttf"
+  },
+  "type_v1.png": {
+    "captcha": "TYpe",
+    "word": "type",
+    "font": "Arial.ttf"
+  },
+  "type_v2.png": {
+    "captcha": "EPYT",
+    "word": "type",
+    "font": "Arial.ttf"
+  },
+  "type_v3.png": {
+    "captcha": "ePYt",
+    "word": "type",
+    "font": "Courier New.ttf"
+  },
+  "type_v4.png": {
+    "captcha": "EpyT",
+    "word": "type",
+    "font": "Arial.ttf"
+  },
+  "type_v5.png": {
+    "captcha": "ePYt",
+    "word": "type",
+    "font": "Arial.ttf"
+  },
+  "type_v6.png": {
+    "captcha": "EPyt",
+    "word": "type",
+    "font": "Arial.ttf"
+  },
+  "type_v7.png": {
+    "captcha": "TypE",
+    "word": "type",
+    "font": "Arial.ttf"
+  },
+  "type_v8.png": {
+    "captcha": "EPyt",
+    "word": "type",
+    "font": "Times New Roman.ttf"
+  },
+  "type_v9.png": {
+    "captcha": "epyT",
+    "word": "type",
+    "font": "Times New Roman.ttf"
+  },
+  "third_v0.png": {
+    "captcha": "dRiht",
+    "word": "third",
+    "font": "Arial.ttf"
+  },
+  "third_v1.png": {
+    "captcha": "dRiHT",
+    "word": "third",
+    "font": "Arial.ttf"
+  },
+  "third_v2.png": {
+    "captcha": "DrIht",
+    "word": "third",
+    "font": "Times New Roman.ttf"
+  },
+  "third_v3.png": {
+    "captcha": "tHiRD",
+    "word": "third",
+    "font": "Courier New.ttf"
+  },
+  "third_v4.png": {
+    "captcha": "tHIRd",
+    "word": "third",
+    "font": "Times New Roman.ttf"
+  },
+  "third_v5.png": {
+    "captcha": "drihT",
+    "word": "third",
+    "font": "Courier New.ttf"
+  },
+  "third_v6.png": {
+    "captcha": "ThiRD",
+    "word": "third",
+    "font": "Courier New.ttf"
+  },
+  "third_v7.png": {
+    "captcha": "THIrD",
+    "word": "third",
+    "font": "Courier New.ttf"
+  },
+  "third_v8.png": {
+    "captcha": "THirD",
+    "word": "third",
+    "font": "Arial.ttf"
+  },
+  "third_v9.png": {
+    "captcha": "thIRD",
+    "word": "third",
+    "font": "Times New Roman.ttf"
+  },
+  "media_v0.png": {
+    "captcha": "Aidem",
+    "word": "media",
+    "font": "Times New Roman.ttf"
+  },
+  "media_v1.png": {
+    "captcha": "AidEM",
+    "word": "media",
+    "font": "Courier New.ttf"
+  },
+  "media_v2.png": {
+    "captcha": "aIDem",
+    "word": "media",
+    "font": "Courier New.ttf"
+  },
+  "media_v3.png": {
+    "captcha": "aIdem",
+    "word": "media",
+    "font": "Arial.ttf"
+  },
+  "media_v4.png": {
+    "captcha": "AiDEm",
+    "word": "media",
+    "font": "Arial.ttf"
+  },
+  "media_v5.png": {
+    "captcha": "MeDIa",
+    "word": "media",
+    "font": "Times New Roman.ttf"
+  },
+  "media_v6.png": {
+    "captcha": "aIDeM",
+    "word": "media",
+    "font": "Arial.ttf"
+  },
+  "media_v7.png": {
+    "captcha": "MeDiA",
+    "word": "media",
+    "font": "Courier New.ttf"
+  },
+  "media_v8.png": {
+    "captcha": "AidEM",
+    "word": "media",
+    "font": "Arial.ttf"
+  },
+  "media_v9.png": {
+    "captcha": "meDiA",
+    "word": "media",
+    "font": "Arial.ttf"
+  },
+  "material_v0.png": {
+    "captcha": "MATeRIAl",
+    "word": "material",
+    "font": "Courier New.ttf"
+  },
+  "material_v1.png": {
+    "captcha": "mAtERiAl",
+    "word": "material",
+    "font": "Times New Roman.ttf"
+  },
+  "material_v2.png": {
+    "captcha": "MaTeRiAl",
+    "word": "material",
+    "font": "Times New Roman.ttf"
+  },
+  "material_v3.png": {
+    "captcha": "mATeRial",
+    "word": "material",
+    "font": "Times New Roman.ttf"
+  },
+  "material_v4.png": {
+    "captcha": "lAIrETAM",
+    "word": "material",
+    "font": "Arial.ttf"
+  },
+  "material_v5.png": {
+    "captcha": "LaIRetAm",
+    "word": "material",
+    "font": "Times New Roman.ttf"
+  },
+  "material_v6.png": {
+    "captcha": "mAtERiaL",
+    "word": "material",
+    "font": "Arial.ttf"
+  },
+  "material_v7.png": {
+    "captcha": "LAiREtam",
+    "word": "material",
+    "font": "Courier New.ttf"
+  },
+  "material_v8.png": {
+    "captcha": "mAtERiaL",
+    "word": "material",
+    "font": "Courier New.ttf"
+  },
+  "material_v9.png": {
+    "captcha": "lAiREtAM",
+    "word": "material",
+    "font": "Arial.ttf"
+  },
+  "society_v0.png": {
+    "captcha": "yTeICoS",
+    "word": "society",
+    "font": "Times New Roman.ttf"
+  },
+  "society_v1.png": {
+    "captcha": "SOCiETY",
+    "word": "society",
+    "font": "Arial.ttf"
+  },
+  "society_v2.png": {
+    "captcha": "ytEiCOs",
+    "word": "society",
+    "font": "Arial.ttf"
+  },
+  "society_v3.png": {
+    "captcha": "SociETy",
+    "word": "society",
+    "font": "Times New Roman.ttf"
+  },
+  "society_v4.png": {
+    "captcha": "YTEicoS",
+    "word": "society",
+    "font": "Times New Roman.ttf"
+  },
+  "society_v5.png": {
+    "captcha": "sOCIEtY",
+    "word": "society",
+    "font": "Times New Roman.ttf"
+  },
+  "society_v6.png": {
+    "captcha": "SOCIeTy",
+    "word": "society",
+    "font": "Courier New.ttf"
+  },
+  "society_v7.png": {
+    "captcha": "yTEicOs",
+    "word": "society",
+    "font": "Courier New.ttf"
+  },
+  "society_v8.png": {
+    "captcha": "yTEIcoS",
+    "word": "society",
+    "font": "Arial.ttf"
+  },
+  "society_v9.png": {
+    "captcha": "YTeICOS",
+    "word": "society",
+    "font": "Times New Roman.ttf"
+  },
+  "just_v0.png": {
+    "captcha": "JuSt",
+    "word": "just",
+    "font": "Arial.ttf"
+  },
+  "just_v1.png": {
+    "captcha": "tsuj",
+    "word": "just",
+    "font": "Courier New.ttf"
+  },
+  "just_v2.png": {
+    "captcha": "jUsT",
+    "word": "just",
+    "font": "Times New Roman.ttf"
+  },
+  "just_v3.png": {
+    "captcha": "tsUj",
+    "word": "just",
+    "font": "Arial.ttf"
+  },
+  "just_v4.png": {
+    "captcha": "juST",
+    "word": "just",
+    "font": "Arial.ttf"
+  },
+  "just_v5.png": {
+    "captcha": "juST",
+    "word": "just",
+    "font": "Courier New.ttf"
+  },
+  "just_v6.png": {
+    "captcha": "JUst",
+    "word": "just",
+    "font": "Courier New.ttf"
+  },
+  "just_v7.png": {
+    "captcha": "TSuJ",
+    "word": "just",
+    "font": "Arial.ttf"
+  },
+  "just_v8.png": {
+    "captcha": "just",
+    "word": "just",
+    "font": "Courier New.ttf"
+  },
+  "just_v9.png": {
+    "captcha": "JuSt",
+    "word": "just",
+    "font": "Times New Roman.ttf"
+  },
+  "late_v0.png": {
+    "captcha": "ETaL",
+    "word": "late",
+    "font": "Arial.ttf"
+  },
+  "late_v1.png": {
+    "captcha": "ETal",
+    "word": "late",
+    "font": "Courier New.ttf"
+  },
+  "late_v2.png": {
+    "captcha": "etal",
+    "word": "late",
+    "font": "Times New Roman.ttf"
+  },
+  "late_v3.png": {
+    "captcha": "EtAl",
+    "word": "late",
+    "font": "Times New Roman.ttf"
+  },
+  "late_v4.png": {
+    "captcha": "latE",
+    "word": "late",
+    "font": "Courier New.ttf"
+  },
+  "late_v5.png": {
+    "captcha": "EtaL",
+    "word": "late",
+    "font": "Courier New.ttf"
+  },
+  "late_v6.png": {
+    "captcha": "LatE",
+    "word": "late",
+    "font": "Arial.ttf"
+  },
+  "late_v7.png": {
+    "captcha": "lATe",
+    "word": "late",
+    "font": "Times New Roman.ttf"
+  },
+  "late_v8.png": {
+    "captcha": "etaL",
+    "word": "late",
+    "font": "Courier New.ttf"
+  },
+  "late_v9.png": {
+    "captcha": "laTe",
+    "word": "late",
+    "font": "Arial.ttf"
+  },
+  "full_v0.png": {
+    "captcha": "llUF",
+    "word": "full",
+    "font": "Courier New.ttf"
+  },
+  "full_v1.png": {
+    "captcha": "LlUF",
+    "word": "full",
+    "font": "Arial.ttf"
+  },
+  "full_v2.png": {
+    "captcha": "fUlL",
+    "word": "full",
+    "font": "Times New Roman.ttf"
+  },
+  "full_v3.png": {
+    "captcha": "LLUF",
+    "word": "full",
+    "font": "Courier New.ttf"
+  },
+  "full_v4.png": {
+    "captcha": "fuLL",
+    "word": "full",
+    "font": "Arial.ttf"
+  },
+  "full_v5.png": {
+    "captcha": "lLuf",
+    "word": "full",
+    "font": "Courier New.ttf"
+  },
+  "full_v6.png": {
+    "captcha": "lLUF",
+    "word": "full",
+    "font": "Times New Roman.ttf"
+  },
+  "full_v7.png": {
+    "captcha": "LLuf",
+    "word": "full",
+    "font": "Times New Roman.ttf"
+  },
+  "full_v8.png": {
+    "captcha": "llUf",
+    "word": "full",
+    "font": "Arial.ttf"
+  },
+  "full_v9.png": {
+    "captcha": "LlUf",
+    "word": "full",
+    "font": "Times New Roman.ttf"
+  },
+  "senior_v0.png": {
+    "captcha": "SenioR",
+    "word": "senior",
+    "font": "Courier New.ttf"
+  },
+  "senior_v1.png": {
+    "captcha": "roINEs",
+    "word": "senior",
+    "font": "Times New Roman.ttf"
+  },
+  "senior_v2.png": {
+    "captcha": "RoinES",
+    "word": "senior",
+    "font": "Times New Roman.ttf"
+  },
+  "senior_v3.png": {
+    "captcha": "SeNIoR",
+    "word": "senior",
+    "font": "Arial.ttf"
+  },
+  "senior_v4.png": {
+    "captcha": "ROineS",
+    "word": "senior",
+    "font": "Arial.ttf"
+  },
+  "senior_v5.png": {
+    "captcha": "senIOR",
+    "word": "senior",
+    "font": "Courier New.ttf"
+  },
+  "senior_v6.png": {
+    "captcha": "ROinES",
+    "word": "senior",
+    "font": "Times New Roman.ttf"
+  },
+  "senior_v7.png": {
+    "captcha": "senior",
+    "word": "senior",
+    "font": "Times New Roman.ttf"
+  },
+  "senior_v8.png": {
+    "captcha": "SeNIoR",
+    "word": "senior",
+    "font": "Courier New.ttf"
+  },
+  "senior_v9.png": {
+    "captcha": "rOIneS",
+    "word": "senior",
+    "font": "Times New Roman.ttf"
+  },
+  "money_v0.png": {
+    "captcha": "yENoM",
+    "word": "money",
+    "font": "Arial.ttf"
+  },
+  "money_v1.png": {
+    "captcha": "YENoM",
+    "word": "money",
+    "font": "Arial.ttf"
+  },
+  "money_v2.png": {
+    "captcha": "mOney",
+    "word": "money",
+    "font": "Courier New.ttf"
+  },
+  "money_v3.png": {
+    "captcha": "mOney",
+    "word": "money",
+    "font": "Times New Roman.ttf"
+  },
+  "money_v4.png": {
+    "captcha": "YENom",
+    "word": "money",
+    "font": "Times New Roman.ttf"
+  },
+  "money_v5.png": {
+    "captcha": "MOney",
+    "word": "money",
+    "font": "Times New Roman.ttf"
+  },
+  "money_v6.png": {
+    "captcha": "YenOm",
+    "word": "money",
+    "font": "Arial.ttf"
+  },
+  "money_v7.png": {
+    "captcha": "YENoM",
+    "word": "money",
+    "font": "Arial.ttf"
+  },
+  "money_v8.png": {
+    "captcha": "YEnOm",
+    "word": "money",
+    "font": "Arial.ttf"
+  },
+  "money_v9.png": {
+    "captcha": "yeNom",
+    "word": "money",
+    "font": "Courier New.ttf"
+  },
+  "believe_v0.png": {
+    "captcha": "beliEVe",
+    "word": "believe",
+    "font": "Times New Roman.ttf"
+  },
+  "believe_v1.png": {
+    "captcha": "BeliEVe",
+    "word": "believe",
+    "font": "Times New Roman.ttf"
+  },
+  "believe_v2.png": {
+    "captcha": "bELieVE",
+    "word": "believe",
+    "font": "Arial.ttf"
+  },
+  "believe_v3.png": {
+    "captcha": "EveILeb",
+    "word": "believe",
+    "font": "Courier New.ttf"
+  },
+  "believe_v4.png": {
+    "captcha": "EVeILeb",
+    "word": "believe",
+    "font": "Arial.ttf"
+  },
+  "believe_v5.png": {
+    "captcha": "EVEILEb",
+    "word": "believe",
+    "font": "Courier New.ttf"
+  },
+  "believe_v6.png": {
+    "captcha": "BELiEvE",
+    "word": "believe",
+    "font": "Arial.ttf"
+  },
+  "believe_v7.png": {
+    "captcha": "bElievE",
+    "word": "believe",
+    "font": "Arial.ttf"
+  },
+  "believe_v8.png": {
+    "captcha": "BeLieve",
+    "word": "believe",
+    "font": "Times New Roman.ttf"
+  },
+  "believe_v9.png": {
+    "captcha": "bELIEvE",
+    "word": "believe",
+    "font": "Arial.ttf"
+  },
+  "policy_v0.png": {
+    "captcha": "poLICY",
+    "word": "policy",
+    "font": "Arial.ttf"
+  },
+  "policy_v1.png": {
+    "captcha": "yCiLop",
+    "word": "policy",
+    "font": "Arial.ttf"
+  },
+  "policy_v2.png": {
+    "captcha": "poliCy",
+    "word": "policy",
+    "font": "Courier New.ttf"
+  },
+  "policy_v3.png": {
+    "captcha": "PoliCY",
+    "word": "policy",
+    "font": "Times New Roman.ttf"
+  },
+  "policy_v4.png": {
+    "captcha": "PolIcy",
+    "word": "policy",
+    "font": "Arial.ttf"
+  },
+  "policy_v5.png": {
+    "captcha": "POlICy",
+    "word": "policy",
+    "font": "Times New Roman.ttf"
+  },
+  "policy_v6.png": {
+    "captcha": "PoliCY",
+    "word": "policy",
+    "font": "Arial.ttf"
+  },
+  "policy_v7.png": {
+    "captcha": "pOLIcy",
+    "word": "policy",
+    "font": "Courier New.ttf"
+  },
+  "policy_v8.png": {
+    "captcha": "POlIcY",
+    "word": "policy",
+    "font": "Times New Roman.ttf"
+  },
+  "policy_v9.png": {
+    "captcha": "pOLiCy",
+    "word": "policy",
+    "font": "Arial.ttf"
+  },
+  "born_v0.png": {
+    "captcha": "nRoB",
+    "word": "born",
+    "font": "Times New Roman.ttf"
+  },
+  "born_v1.png": {
+    "captcha": "boRn",
+    "word": "born",
+    "font": "Times New Roman.ttf"
+  },
+  "born_v2.png": {
+    "captcha": "born",
+    "word": "born",
+    "font": "Courier New.ttf"
+  },
+  "born_v3.png": {
+    "captcha": "born",
+    "word": "born",
+    "font": "Courier New.ttf"
+  },
+  "born_v4.png": {
+    "captcha": "boRN",
+    "word": "born",
+    "font": "Arial.ttf"
+  },
+  "born_v5.png": {
+    "captcha": "bOrN",
+    "word": "born",
+    "font": "Courier New.ttf"
+  },
+  "born_v6.png": {
+    "captcha": "boRn",
+    "word": "born",
+    "font": "Times New Roman.ttf"
+  },
+  "born_v7.png": {
+    "captcha": "NRob",
+    "word": "born",
+    "font": "Arial.ttf"
+  },
+  "born_v8.png": {
+    "captcha": "NROB",
+    "word": "born",
+    "font": "Arial.ttf"
+  },
+  "born_v9.png": {
+    "captcha": "nROb",
+    "word": "born",
+    "font": "Courier New.ttf"
+  },
+  "stand_v0.png": {
+    "captcha": "StANd",
+    "word": "stand",
+    "font": "Times New Roman.ttf"
+  },
+  "stand_v1.png": {
+    "captcha": "STANd",
+    "word": "stand",
+    "font": "Courier New.ttf"
+  },
+  "stand_v2.png": {
+    "captcha": "StANd",
+    "word": "stand",
+    "font": "Times New Roman.ttf"
+  },
+  "stand_v3.png": {
+    "captcha": "sTaND",
+    "word": "stand",
+    "font": "Courier New.ttf"
+  },
+  "stand_v4.png": {
+    "captcha": "dnATS",
+    "word": "stand",
+    "font": "Courier New.ttf"
+  },
+  "stand_v5.png": {
+    "captcha": "StaND",
+    "word": "stand",
+    "font": "Courier New.ttf"
+  },
+  "stand_v6.png": {
+    "captcha": "sTAND",
+    "word": "stand",
+    "font": "Times New Roman.ttf"
+  },
+  "stand_v7.png": {
+    "captcha": "stanD",
+    "word": "stand",
+    "font": "Times New Roman.ttf"
+  },
+  "stand_v8.png": {
+    "captcha": "DnatS",
+    "word": "stand",
+    "font": "Courier New.ttf"
+  },
+  "stand_v9.png": {
+    "captcha": "dnAtS",
+    "word": "stand",
+    "font": "Times New Roman.ttf"
+  }
+}
